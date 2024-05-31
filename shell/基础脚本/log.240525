@@ -1,0 +1,1252 @@
+total 246732
+dr-xr-xr-x.  2 root root       36864 May 24 14:49 .
+drwxr-xr-x. 12 root root         144 May 24 14:47 ..
+-rwxr-xr-x   1 root root       54840 Jul 14  2021 [
+lrwxrwxrwx   1 root root           6 May 14  2019 a2x -> a2x.py
+-rwxr-xr-x   1 root root       37017 May 14  2019 a2x.py
+-rwxr-xr-x   2 root root       36478 Jan 19  2021 aclocal
+-rwxr-xr-x   2 root root       36478 Jan 19  2021 aclocal-1.16
+-rwxr-xr-x   1 root root       12688 Jun 11  2021 acyclic
+-rwxr-xr-x   1 root root       34064 Nov 12  2021 addr2line
+-rwxr-xr-x   1 root root          29 Jul 27  2021 alias
+lrwxrwxrwx   1 root root          26 Jul 23  2021 alt-java -> /etc/alternatives/alt-java
+lrwxrwxrwx   1 root root          30 Jul 23  2021 appletviewer -> /etc/alternatives/appletviewer
+lrwxrwxrwx   1 root root           6 Jun 30  2021 apropos -> whatis
+-rwxr-xr-x   1 root root       63424 Nov 12  2021 ar
+-rwxr-xr-x   1 root root       38208 Jul 14  2021 arch
+-rwxr-xr-x   1 root root      911280 Nov 12  2021 as
+lrwxrwxrwx   1 root root          11 May 14  2019 asciidoc -> asciidoc.py
+-rwxr-xr-x   1 root root      249917 May 14  2019 asciidoc.py
+-rwxr-xr-x   1 root root       33464 Jun 16  2021 aserver
+-rwxr-xr-x.  1 root root       21256 Apr 24  2020 aulast
+-rwxr-xr-x.  1 root root       17104 Apr 24  2020 aulastlog
+-rwxr-xr-x.  1 root root       12728 Apr 24  2020 ausyscall
+-rwxr-xr-x   1 root root       42040 Jul 17  2021 authselect
+-rwxr-xr-x   1 root root      106296 May 14  2019 authvar
+-rwxr-xr-x   1 root root       14768 Jul  9  2021 autoconf
+-rwxr-xr-x   1 root root        8534 Jul  9  2021 autoheader
+-rwxr-xr-x   1 root root       32181 Jul  9  2021 autom4te
+-rwxr-xr-x   2 root root      257949 Jan 19  2021 automake
+-rwxr-xr-x   2 root root      257949 Jan 19  2021 automake-1.16
+-rwxr-xr-x   1 root root       26572 Nov  9  2019 autopoint
+-rwxr-xr-x   1 root root       21066 Jul  9  2021 autoreconf
+-rwxr-xr-x   1 root root       17124 Jul  9  2021 autoscan
+-rwxr-xr-x   1 root root       33872 Jul  9  2021 autoupdate
+-rwxr-xr-x.  1 root root       38016 Apr 24  2020 auvirt
+lrwxrwxrwx   1 root root           4 Dec  9  2020 awk -> gawk
+-rwxr-xr-x   1 root root       59048 Jul 14  2021 b2sum
+-rwxr-xr-x   1 root root       42440 Jul 14  2021 base32
+-rwxr-xr-x   1 root root       42448 Jul 14  2021 base64
+-rwxr-xr-x   1 root root       38272 Jul 14  2021 basename
+-rwxr-xr-x   1 root root     1150584 Jul 27  2021 bash
+lrwxrwxrwx   1 root root          10 Jul 27  2021 bashbug -> bashbug-64
+-rwxr-xr-x   1 root root        7348 Jul 27  2021 bashbug-64
+-rwxr-xr-x   1 root root       97256 May 11  2019 bc
+-rwxr-xr-x   1 root root       21152 Jun 11  2021 bcomps
+-rwxr-xr-x   1 root root       46400 May 25  2021 bdftopcf
+-rwxr-xr-x   1 root root          26 Jul 27  2021 bg
+-rwxr-xr-x   1 root root      448224 May 14  2019 bison
+-rwxr-xr-x   1 root root       23289 Jul 26  2020 bond2team
+-rwxr-xr-x   1 root root       46280 Dec 22  2021 bootctl
+-rwxr-xr-x   1 root root      124376 Jul 28  2021 broadwayd
+-rwxr-xr-x   1 root root      757112 Jan 12  2021 brotli
+lrwxrwxrwx.  1 root root           5 May 11  2019 bunzip2 -> bzip2
+-rwxr-xr-x   1 root root       79208 Dec 22  2021 busctl
+lrwxrwxrwx   1 root root           4 May 14  2019 byacc -> yacc
+lrwxrwxrwx.  1 root root           5 May 11  2019 bzcat -> bzip2
+lrwxrwxrwx.  1 root root           6 May 11  2019 bzcmp -> bzdiff
+-rwxr-xr-x.  1 root root        2128 May 11  2019 bzdiff
+lrwxrwxrwx.  1 root root           6 May 11  2019 bzegrep -> bzgrep
+lrwxrwxrwx.  1 root root           6 May 11  2019 bzfgrep -> bzgrep
+-rwxr-xr-x.  1 root root        1677 May 11  2019 bzgrep
+-rwxr-xr-x.  1 root root       38472 May 11  2019 bzip2
+-rwxr-xr-x.  1 root root       17560 May 11  2019 bzip2recover
+lrwxrwxrwx.  1 root root           6 May 11  2019 bzless -> bzmore
+-rwxr-xr-x.  1 root root        1259 May 11  2019 bzmore
+-rwxr-xr-x   4 root root     1266528 Nov 13  2021 c++
+-rwxr-xr-x   1 root root         224 Nov 13  2021 c89
+-rwxr-xr-x   1 root root         215 Nov 13  2021 c99
+-rwxr-xr-x   1 root root       75664 May 14  2019 cairo-sphinx
+-rwxr-xr-x   1 root root       67560 Jul 21  2021 cal
+-rwxr-xr-x   1 root root        1644 Sep 22  2021 ca-legacy
+-rwxr-xr-x   1 root root       44658 Jul  9  2021 callgrind_annotate
+-rwxr-xr-x   1 root root       12602 Jul  9  2021 callgrind_control
+lrwxrwxrwx   1 root root           3 Jun  1  2021 captoinfo -> tic
+-rwxr-xr-x   1 root root       38336 Jul 14  2021 cat
+-rwxr-xr-x   1 root root        3283 Aug 25  2021 catchsegv
+-rwxr-xr-x   1 root root       42416 Jun 30  2021 catman
+lrwxrwxrwx   1 root root           3 Nov 13  2021 cc -> gcc
+-rwxr-xr-x   1 root root     7485992 Jul 22  2021 ccmake
+lrwxrwxrwx   1 root root           6 Jul 22  2021 ccmake3 -> ccmake
+-rwxr-xr-x   1 root root       25344 Jun 11  2021 ccomps
+-rwxr-xr-x   1 root root          26 Jul 27  2021 cd
+-rwxr-xr-x   1 root root       11480 Dec 22  2021 centrino-decode
+-rwxr-xr-x   1 root root      199912 Dec  3  2021 certutil
+-rwxr-xr-x   1 root root       29568 Nov 12  2021 c++filt
+-rwxr-xr-x   1 root root       33438 Jul  9  2021 cg_annotate
+-rwxr-xr-x   1 root root       10347 Jul  9  2021 cg_diff
+-rwxr-xr-x   1 root root       48480 Jul  9  2021 cg_merge
+-rwxr-xr-x.  1 root root       17488 May 11  2019 chacl
+-rwsr-xr-x   1 root root       79496 Aug 19  2021 chage
+-rwxr-xr-x   1 root root       16792 Jun 24  2021 chattr
+-rwxr-xr-x   1 root root       72016 Jul 14  2021 chcon
+-rwxr-xr-x   1 root root      112528 Dec 23  2020 check-regexp
+-rwxr-xr-x   1 root root        9240 May 11  2019 checksctp
+-rws--x--x   1 root root       33688 Jul 21  2021 chfn
+-rwxr-xr-x   1 root root       67832 Jul 14  2021 chgrp
+-rwxr-xr-x   1 root root       46560 Jul 21  2021 chmem
+-rwxr-xr-x   1 root root       63712 Jul 14  2021 chmod
+-rwxr-xr-x   1 root root       71984 Jul 14  2021 chown
+-rwxr-xr-x   1 root root      118088 Jun 24  2021 chronyc
+-rwxr-xr-x   1 root root       38064 Jul 21  2021 chrt
+-rws--x--x   1 root root       25320 Jul 21  2021 chsh
+-rwxr-xr-x   1 root root       12888 Jul 21  2020 chvt
+-rwxr-xr-x   1 root root    27557200 Dec  3  2021 c-index-test
+lrwxrwxrwx   1 root root           3 Jun 11  2021 circo -> dot
+-rwxr-xr-x   1 root root       38272 Jul 14  2021 cksum
+lrwxrwxrwx   1 root root           8 Dec  3  2021 clang -> clang-12
+lrwxrwxrwx   1 root root           5 Dec  3  2021 clang++ -> clang
+lrwxrwxrwx   1 root root           7 Dec  3  2021 clang++-12 -> clang++
+-rwxr-xr-x   1 root root      161760 Dec  3  2021 clang-12
+-rwxr-xr-x   1 root root      129752 Dec  3  2021 clang-apply-replacements
+-rwxr-xr-x   1 root root      478376 Dec  3  2021 clang-change-namespace
+-rwxr-xr-x   1 root root       46208 Dec  3  2021 clang-check
+lrwxrwxrwx   1 root root           5 Dec  3  2021 clang-cl -> clang
+lrwxrwxrwx   1 root root           5 Dec  3  2021 clang-cpp -> clang
+-rwxr-xr-x   1 root root    14038704 Dec  3  2021 clangd
+-rwxr-xr-x   1 root root      928680 Dec  3  2021 clang-doc
+-rwxr-xr-x   1 root root       29720 Dec  3  2021 clang-extdef-mapping
+-rwxr-xr-x   1 root root       91744 Dec  3  2021 clang-format
+lrwxrwxrwx   1 root root          37 Dec  3  2021 clang-format-diff -> /usr/share/clang/clang-format-diff.py
+-rwxr-xr-x   1 root root      263640 Dec  3  2021 clang-include-fixer
+-rwxr-xr-x   1 root root      470472 Dec  3  2021 clang-move
+-rwxr-xr-x   1 root root       96232 Dec  3  2021 clang-offload-bundler
+-rwxr-xr-x   1 root root       54264 Dec  3  2021 clang-offload-wrapper
+-rwxr-xr-x   1 root root      418144 Dec  3  2021 clang-query
+-rwxr-xr-x   1 root root      121848 Dec  3  2021 clang-refactor
+-rwxr-xr-x   1 root root       75456 Dec  3  2021 clang-rename
+-rwxr-xr-x   1 root root      339536 Dec  3  2021 clang-reorder-fields
+-rwxr-xr-x   1 root root      135312 Dec  3  2021 clang-scan-deps
+-rwxr-xr-x   1 root root     8253336 Dec  3  2021 clang-tidy
+-rwxr-xr-x   1 root root       12808 Jun  1  2021 clear
+lrwxrwxrwx   1 root root          24 Jul 23  2021 clhsdb -> /etc/alternatives/clhsdb
+-rwxr-xr-x   1 root root      530824 Jun 11  2021 cluster
+-rwxr-xr-x   1 root root     7794800 Jul 22  2021 cmake
+lrwxrwxrwx   1 root root           5 Jul 22  2021 cmake3 -> cmake
+-rwxr-xr-x.  1 root root       50120 Apr  7  2020 cmp
+-rwxr-xr-x   1 root root      117144 Dec  3  2021 cmsutil
+-rwxr-xr-x   1 root root       29712 Jul 21  2021 col
+-rwxr-xr-x   1 root root       16864 Jul 21  2021 colcrt
+-rwxr-xr-x   1 root root       25424 Jul 21  2021 colrm
+-rwxr-xr-x   1 root root       50648 Jul 21  2021 column
+lrwxrwxrwx   1 root root           9 May 14  2019 combinediff -> interdiff
+-rwxr-xr-x   1 root root       42512 Jul 14  2021 comm
+-rwxr-xr-x   1 root root          31 Jul 27  2021 command
+-rwxr-xr-x   1 root root        1342 Jun 24  2021 compile_et
+-rwxr-xr-x   1 root root       45976 Dec 22  2021 coredumpctl
+-rwxr-xr-x   1 root root      151528 Jul 14  2021 cp
+-rwxr-xr-x   1 root root     7992040 Jul 22  2021 cpack
+lrwxrwxrwx   1 root root           5 Jul 22  2021 cpack3 -> cpack
+-rwxr-xr-x   1 root root      163488 Jan 22  2021 cpio
+-rwxr-xr-x   1 root root     1262376 Nov 13  2021 cpp
+-rwxr-xr-x   1 root root          47 Dec 23  2020 cpp2html
+-rwxr-xr-x   1 root root       68488 Dec 22  2021 cpupower
+-rwxr--r--   1 root root        2325 Apr 17  2023 crb
+-rwxr-xr-x   1 root root      134120 Dec  3  2021 crlutil
+-rwxr-xr-x.  1 root root       54560 Nov  9  2019 cronnext
+-rwsr-xr-x.  1 root root       65904 Nov  9  2019 crontab
+-rwxr-xr-x   1 root root       54936 Jul 14  2021 csplit
+-rwxr-xr-x   1 root root       25200 Sep 10  2020 csslint-0.6
+-rwxr-xr-x   1 root root      916744 May  7 22:51 ctags
+-rwxr-xr-x   1 root root     9062984 Jul 22  2021 ctest
+lrwxrwxrwx   1 root root           5 Jul 22  2021 ctest3 -> ctest
+-rwxr-xr-x   1 root root      235592 Oct 16  2021 curl
+-rwxr-xr-x   1 root root       50696 Jul 14  2021 cut
+-rwxr-xr-x   1 root root      270136 Oct 25  2021 cvtsudoers
+-rwxr-xr-x   1 root root       29832 Apr  7  2020 cxpm
+-rwxr-xr-x   1 root root      108472 Jul 14  2021 date
+-rwxr-xr-x   1 root root       12752 Sep 10  2021 db_archive
+-rwxr-xr-x   1 root root       16872 Sep 10  2021 db_checkpoint
+-rwxr-xr-x   1 root root       16872 Sep 10  2021 db_deadlock
+-rwxr-xr-x   1 root root       16904 Sep 10  2021 db_dump
+-rwxr-xr-x   1 root root       71224 Sep 10  2021 db_dump185
+-rwxr-xr-x   1 root root       20984 Sep 10  2021 db_hotbackup
+-rwxr-xr-x   1 root root       29296 Sep 10  2021 db_load
+-rwxr-xr-x   1 root root       16912 Sep 10  2021 db_log_verify
+-rwxr-xr-x   1 root root       34200 Sep 10  2021 db_printlog
+-rwxr-xr-x   1 root root       16904 Sep 10  2021 db_recover
+-rwxr-xr-x   1 root root       16888 Sep 10  2021 db_replicate
+-rwxr-xr-x   1 root root       16872 Sep 10  2021 db_stat
+-rwxr-xr-x   1 root root       25144 Sep 10  2021 db_tuner
+-rwxr-xr-x   1 root root       12752 Sep 10  2021 db_upgrade
+-rwxr-xr-x.  1 root root      113080 May 11  2019 dbus-binding-tool
+-rwxr-xr-x   1 root root       16768 May  8  2021 dbus-cleanup-sockets
+-rwxr-xr-x   1 root root      245528 May  8  2021 dbus-daemon
+-rwxr-xr-x   1 root root       29296 May  8  2021 dbus-monitor
+-rwxr-xr-x   1 root root       16296 May  8  2021 dbus-run-session
+-rwxr-xr-x   1 root root       29280 May  8  2021 dbus-send
+-rwxr-xr-x   1 root root       25224 May  8  2021 dbus-test-tool
+-rwxr-xr-x   1 root root       16792 May  8  2021 dbus-update-activation-environment
+-rwxr-xr-x   1 root root       12664 May  8  2021 dbus-uuidgen
+-rwxr-xr-x   1 root root       16856 Sep 10  2021 db_verify
+-rwxr-xr-x   1 root root       54296 May 11  2019 dc
+-rwxr-xr-x   1 root root       54552 Dec  2  2020 dconf
+-rwxr-xr-x   1 root root       79816 Jul 14  2021 dd
+-rwxr-xr-x   1 root root       12896 Jul 21  2020 deallocvt
+-rwxr-xr-x   1 root root       16856 Jun  3  2021 debuginfod-find
+-rwxr-xr-x   1 root root        1351 May 14  2019 dehtmldiff
+-rwxr-xr-x   1 root root       93248 Jul 14  2021 df
+-rwxr-xr-x   1 root root      730376 Dec  3  2021 diagtool
+-rwxr-xr-x.  1 root root      159088 Apr  7  2020 diff
+-rwxr-xr-x.  1 root root       71112 Apr  7  2020 diff3
+-rwxr-xr-x   1 root root       12512 Jun 11  2021 diffimg
+-rwxr-xr-x   1 root root       46632 May 14  2019 diffstat
+-rwxr-xr-x   1 root root       17136 Jun 11  2021 dijkstra
+-rwxr-xr-x   1 root root      143224 Jul 14  2021 dir
+-rwxr-xr-x   1 root root       50696 Jul 14  2021 dircolors
+-rwxr-xr-x   1 root root      594312 May 16  2020 dirmngr
+-rwxr-xr-x   1 root root      123200 May 16  2020 dirmngr-client
+-rwxr-xr-x   1 root root       34144 Jul 14  2021 dirname
+-rwxr-xr-x   1 root root        8248 Jan 19  2021 disable-paste
+-rwxr-xr-x   1 root root       12792 Jan 19  2021 display-buttons
+-rwxr-xr-x   1 root root       12800 Jan 19  2021 display-coords
+-rwxr-xr-x   1 root root       79784 Jul 21  2021 dmesg
+lrwxrwxrwx   1 root root           5 Sep 18  2021 dnf -> dnf-3
+-rwxr-xr-x   1 root root        1954 Sep 18  2021 dnf-3
+lrwxrwxrwx.  1 root root           8 May 11  2019 dnsdomainname -> hostname
+lrwxrwxrwx.  1 root root           8 May 11  2019 domainname -> hostname
+-rwxr-xr-x   1 root root       12496 Jun 11  2021 dot
+lrwxrwxrwx   1 root root           6 Jun 11  2021 dot2gxl -> gxl2gv
+-rwxr-xr-x   1 root root        2085 Jun 11  2021 dotty
+-rwxr-xr-x   1 root root       68849 Sep 30  2021 dracut
+-rwxr-xr-x   1 root root      109576 Jul 14  2021 du
+-rwxr-xr-x   1 root root      174008 Jul 21  2020 dumpkeys
+-rwxr-xr-x   1 root root     2271224 Nov 12  2021 dwp
+-rwxr-xr-x   1 root root      171664 Jun  3  2021 dwz
+lrwxrwxrwx   1 root root          32 Jul 23  2021 easy_install-3 -> /etc/alternatives/easy_install-3
+-rwxr-xr-x   1 root root         246 Apr 27  2020 easy_install-3.6
+-rwxr-xr-x   1 root root      229488 May  7 22:51 ebrowse
+-rwxr-xr-x   1 root root       38208 Jul 14  2021 echo
+-rwxr-xr-x   1 root root      430920 Jun 11  2021 edgepaint
+-rwxr-xr-x   1 root root       66952 May 14  2019 edid-decode
+-rwxr-xr-x   1 root root        2047 May 14  2019 editdiff
+-rwxr-xr-x   1 root root      106216 May 14  2019 efikeygen
+-rwxr-xr-x   1 root root      102104 May 14  2019 efisiglist
+-rwxr-xr-x.  1 root root          28 May 11  2019 egrep
+-rwxr-xr-x   1 root root       59152 Jul 21  2021 eject
+-rwxr-xr-x   1 root root       34048 Nov 12  2021 elfedit
+lrwxrwxrwx   1 root root          10 May  7 22:51 emacs -> emacs-29.1
+-rwxr-xr-x   1 root root    39492104 May  7 22:51 emacs-29.1
+-rwxr-xr-x   1 root root      244432 May  7 22:51 emacsclient
+-rwxr-xr-x   1 root root        2980 May 11  2019 encguess
+-rwxr-xr-x   1 root root       42304 Jul 14  2021 env
+-rwxr-xr-x.  1 root root       79320 Nov  9  2019 envsubst
+-rwxr-xr-x.  1 root root      233592 May 28  2019 eqn
+-rwxr-xr-x   1 root root        1563 May 14  2019 espdiff
+-rwxr-xr-x   1 root root      906280 May  7 22:51 etags
+-rwxr-xr-x   1 root root       29152 Jun  3  2021 eu-addr2line
+-rwxr-xr-x   1 root root       42120 Jun  3  2021 eu-ar
+-rwxr-xr-x   1 root root       27032 Jun  3  2021 eu-elfclassify
+-rwxr-xr-x   1 root root      336368 Jun  3  2021 eu-elfcmp
+-rwxr-xr-x   1 root root       33872 Jun  3  2021 eu-elfcompress
+-rwxr-xr-x   1 root root      423176 Jun  3  2021 eu-elflint
+-rwxr-xr-x   1 root root       21024 Jun  3  2021 eu-findtextrel
+-rwxr-xr-x   1 root root        2911 Jun  3  2021 eu-make-debug-archive
+-rwxr-xr-x   1 root root      353392 Jun  3  2021 eu-nm
+-rwxr-xr-x   1 root root      336856 Jun  3  2021 eu-objdump
+-rwxr-xr-x   1 root root       25592 Jun  3  2021 eu-ranlib
+-rwxr-xr-x   1 root root      559064 Jun  3  2021 eu-readelf
+-rwxr-xr-x   1 root root       20968 Jun  3  2021 eu-size
+-rwxr-xr-x   1 root root       30088 Jun  3  2021 eu-stack
+-rwxr-xr-x   1 root root       25352 Jun  3  2021 eu-strings
+-rwxr-xr-x   1 root root      357352 Jun  3  2021 eu-strip
+-rwxr-xr-x   1 root root       54352 Jun  3  2021 eu-unstrip
+-rwxr-xr-x   1 root root       17896 May 14  2019 evdev-joystick
+-rwxr-xr-x   1 root root       55559 May 11  2019 event_rpcgen.py
+-rwxr-xr-x   1 root root       64040 Feb 23  2021 evmctl
+lrwxrwxrwx   1 root root           2 Sep 22  2021 ex -> vi
+-rwxr-xr-x   1 root root       42560 Jul 14  2021 expand
+-rwxr-xr-x   1 root root       50744 Jul 14  2021 expr
+lrwxrwxrwx   1 root root          26 Jul 23  2021 extcheck -> /etc/alternatives/extcheck
+-rwxr-xr-x   1 root root       88000 Jul 14  2021 factor
+-rwxr-xr-x   1 root root       29632 Jul 21  2021 fallocate
+-rwxr-xr-x   1 root root       34088 Jul 14  2021 false
+-rwxr-xr-x   1 root root          26 Jul 27  2021 fc
+-rwxr-xr-x   1 root root         132 Aug 25  2021 fc-cache
+-rwxr-xr-x   1 root root       20864 Aug 25  2021 fc-cache-64
+-rwxr-xr-x   1 root root       16768 Aug 25  2021 fc-cat
+-rwxr-xr-x   1 root root       12520 Aug 25  2021 fc-conflist
+-rwxr-xr-x   1 root root       12520 Aug 25  2021 fc-list
+-rwxr-xr-x   1 root root       16624 Aug 25  2021 fc-match
+-rwxr-xr-x   1 root root       12528 Aug 25  2021 fc-pattern
+-rwxr-xr-x   1 root root       12512 Aug 25  2021 fc-query
+-rwxr-xr-x   1 root root       12528 Aug 25  2021 fc-scan
+-rwxr-xr-x   1 root root       16624 Aug 25  2021 fc-validate
+lrwxrwxrwx   1 root root           3 Jun 11  2021 fdp -> dot
+-rwxr-xr-x   1 root root       17576 May 14  2019 ffcfstress
+-rwxr-xr-x   1 root root       13808 May 14  2019 ffmvforce
+-rwxr-xr-x   1 root root       13344 May 14  2019 ffset
+-rwxr-xr-x   1 root root       17520 May 14  2019 fftest
+-rwxr-xr-x   1 root root          26 Jul 27  2021 fg
+-rwxr-xr-x   1 root root       12904 Jul 21  2020 fgconsole
+-rwxr-xr-x.  1 root root          28 May 11  2019 fgrep
+-rwxr-xr-x   1 root root       25288 May  8  2021 file
+-rwxr-xr-x   1 root root       53200 May 14  2019 filterdiff
+-rwxr-xr-x   1 root root       33800 Jul 21  2021 fincore
+-rwxr-xr-x.  1 root root      261992 May 11  2019 find
+-rwxr-xr-x   1 root root      483920 Dec  3  2021 find-all-symbols
+-rwxr-xr-x   1 root root       72288 Jul 21  2021 findmnt
+-rwxr-xr-x.  1 root root       18400 May 11  2019 fipscheck
+-rwxr-xr-x   1 root root         977 Jun 17  2021 fips-finish-install
+-rwxr-xr-x.  1 root root       18384 May 11  2019 fipshmac
+-rwxr-xr-x   1 root root        3880 Jun 17  2021 fips-mode-setup
+-rwxr-xr-x   1 root root      142956 Aug 10  2021 firewall-cmd
+-rwxr-xr-x   1 root root      123625 Aug 10  2021 firewall-offline-cmd
+-rwxr-xr-x   1 root root        1870 May 14  2019 fixcvsdiff
+-rwxr-xr-x   1 root root      438728 May 14  2019 flex
+lrwxrwxrwx   1 root root           4 May 14  2019 flex++ -> flex
+lrwxrwxrwx   1 root root           9 May 14  2019 flipdiff -> interdiff
+-rwxr-xr-x   1 root root       33968 Jul 21  2021 flock
+-rwxr-xr-x   1 root root       46576 Jul 14  2021 fmt
+-rwxr-xr-x   1 root root       42376 Jul 14  2021 fold
+-rwxr-xr-x   1 root root       42096 May 25  2021 fonttosfnt
+-rwxr-xr-x   1 root root       21296 Feb  2  2021 free
+-rwxr-xr-x   1 root root        4416 Nov 14  2020 freetype-config
+-rwxr-xr-x   1 root root       21760 Apr  7  2020 fribidi
+-rwxr-xr-x.  1 root root       37472 Jun 30  2021 funzip
+-rwxr-xr-x   4 root root     1266528 Nov 13  2021 g++
+-rwxr-xr-x   1 root root      217296 May 16  2020 g13
+-rwxr-xr-x   1 root root       20928 Jul  7  2021 gapplication
+-rwxr-xr-x   1 root root      685896 Dec  9  2020 gawk
+-rwxr-xr-x   1 root root       17064 Jun 11  2021 gc
+-rwxr-xr-x   3 root root     1262408 Nov 13  2021 gcc
+-rwxr-xr-x   1 root root       37512 Nov 13  2021 gcc-ar
+-rwxr-xr-x   1 root root       37520 Nov 13  2021 gcc-nm
+-rwxr-xr-x   1 root root       37520 Nov 13  2021 gcc-ranlib
+-rwxr-xr-x   1 root root        3430 Aug 10  2021 gcore
+-rwxr-xr-x   1 root root     1373272 Nov 13  2021 gcov
+-rwxr-xr-x   1 root root      580536 Nov 13  2021 gcov-dump
+-rwxr-xr-x   1 root root      618272 Nov 13  2021 gcov-tool
+lrwxrwxrwx   1 root root          14 Aug 10  2021 gdb -> ../libexec/gdb
+-rwxr-xr-x   1 root root        3361 Aug 10  2021 gdb-add-index
+-rwxr-xr-x.  1 root root       23904 May 11  2019 gdbm_dump
+-rwxr-xr-x.  1 root root       28256 May 11  2019 gdbm_load
+-rwxr-xr-x.  1 root root      119952 May 11  2019 gdbmtool
+-rwxr-xr-x   1 root root       49856 Jul  7  2021 gdbus
+-rwxr-xr-x   1 root root        2050 Jul  7  2021 gdbus-codegen
+-rwxr-xr-x   1 root root       19152 Nov  9  2019 gdk-pixbuf-csource
+-rwxr-xr-x   1 root root       14960 Nov  9  2019 gdk-pixbuf-pixdata
+-rwxr-xr-x   1 root root       19136 Nov  9  2019 gdk-pixbuf-query-loaders-64
+-rwxr-xr-x   1 root root       25224 Nov  9  2019 gdk-pixbuf-thumbnailer
+-rwxr-xr-x   1 root root       32920 Aug 25  2021 gencat
+-rwxr-xr-x   1 root root         499 Oct 16  2021 gendiff
+-rwxr-xr-x.  1 root root       12288 Apr  7  2020 genl-ctrl-list
+lrwxrwxrwx.  1 root root           3 May 28  2019 geqn -> eqn
+-rwxr-xr-x   1 root root       37544 Aug 25  2021 getconf
+-rwxr-xr-x   1 root root       46008 Aug 25  2021 getent
+-rwxr-xr-x.  1 root root       28664 May 11  2019 getfacl
+-rwxr-xr-x   1 root root       12896 Jul 21  2020 getkeycodes
+-rwxr-xr-x   1 root root       21032 Jul 21  2021 getopt
+-rwxr-xr-x   1 root root          31 Jul 27  2021 getopts
+-rwxr-xr-x.  1 root root       79040 Nov  9  2019 gettext
+-rwxr-xr-x   1 root root       43718 Nov  9  2019 gettextize
+-rwxr-xr-x.  1 root root        4629 Nov  9  2019 gettext.sh
+-rwxr-xr-x   1 root root        8240 Jan 19  2021 get-versions
+-rwxr-xr-x   1 root root       87232 Jul  7  2021 gio
+-rwxr-xr-x   1 root root       16640 Jul  7  2021 gio-querymodules-64
+-rwxr-xr-x   1 root root     3206088 Jul 21  2020 git
+lrwxrwxrwx   1 root root           3 Jul 21  2020 git-receive-pack -> git
+-rwxr-xr-x   1 root root     1853736 Jul 21  2020 git-shell
+lrwxrwxrwx   1 root root           3 Jul 21  2020 git-upload-archive -> git
+lrwxrwxrwx   1 root root           3 Jul 21  2020 git-upload-pack -> git
+-rwxr-xr-x   1 root root       45744 Jul  7  2021 glib-compile-resources
+-rwxr-xr-x   1 root root       50000 Jul  7  2021 glib-compile-schemas
+-rwxr-xr-x   1 root root       40924 Jul  7  2021 glib-genmarshal
+-rwxr-xr-x   1 root root        5371 Jul  7  2021 glib-gettextize
+-rwxr-xr-x   1 root root       27799 Jul  7  2021 glib-mkenums
+lrwxrwxrwx   1 root root           4 Mar 26  2020 gmake -> make
+-rwxr-xr-x   1 root root       42232 Jun 11  2021 gml2gv
+lrwxrwxrwx.  1 root root           4 May 28  2019 gneqn -> neqn
+lrwxrwxrwx.  1 root root           5 May 28  2019 gnroff -> nroff
+-rwxr-xr-x   1 root root       12680 Jul  7  2021 gobject-query
+-rwsr-xr-x   1 root root       84104 Aug 19  2021 gpasswd
+-rwxr-xr-x   1 root root     1090776 May 16  2020 gpg
+lrwxrwxrwx   1 root root           3 May 16  2020 gpg2 -> gpg
+-rwxr-xr-x   1 root root      429536 May 16  2020 gpg-agent
+-rwxr-xr-x   1 root root      180504 May 16  2020 gpgconf
+-rwxr-xr-x   1 root root      169496 May 16  2020 gpg-connect-agent
+-rwxr-xr-x.  1 root root       34976 May 11  2019 gpg-error
+-rwxr-xr-x   1 root root       87784 Jun 19  2021 gpgme-json
+-rwxr-xr-x   1 root root       29576 May 16  2020 gpgparsemail
+-rwxr-xr-x   1 root root      527016 May 16  2020 gpgsm
+-rwxr-xr-x   1 root root       89312 May 16  2020 gpgsplit
+-rwxr-xr-x   1 root root      462560 May 16  2020 gpgv
+lrwxrwxrwx   1 root root           4 May 16  2020 gpgv2 -> gpgv
+-rwxr-xr-x   1 root root      211880 May 16  2020 gpg-wks-server
+-rwxr-xr-x   1 root root        3525 May 16  2020 gpg-zip
+lrwxrwxrwx.  1 root root           3 May 28  2019 gpic -> pic
+-rwxr-xr-x   1 root root       15832 Dec 22  2021 gpio-event-mon
+-rwxr-xr-x   1 root root       15832 Dec 22  2021 gpio-hammer
+-rwxr-xr-x   1 root root       34392 Jan 19  2021 gpm-root
+-rwxr-xr-x   1 root root      105792 Nov 12  2021 gprof
+-rwxr-xr-x   1 root root       30672 May 14  2019 gr2fonttest
+-rwxr-xr-x   1 root root       21120 Jun 11  2021 graphml2gv
+-rwxr-xr-x.  1 root root      198280 May 11  2019 grep
+lrwxrwxrwx   1 root root          10 May 14  2019 grepdiff -> filterdiff
+-rwxr-xr-x   1 root root       20976 Jul  7  2021 gresource
+-rwxr-xr-x.  1 root root      127920 May 28  2019 groff
+-rwxr-xr-x.  1 root root      195728 May 28  2019 grops
+-rwxr-xr-x.  1 root root      145304 May 28  2019 grotty
+-rwxr-xr-x   1 root root       38264 Jul 14  2021 groups
+-rwxr-xr-x   1 root root      454840 Nov  8  2021 grub2-editenv
+-rwxr-xr-x   1 root root      934224 Nov  8  2021 grub2-file
+-rwxr-xr-x   1 root root     1189920 Nov  8  2021 grub2-fstest
+-rwxr-xr-x   1 root root      286144 Nov  8  2021 grub2-glue-efi
+-rwxr-xr-x   1 root root        1668 Nov  8  2021 grub2-kbdcomp
+-rwxr-xr-x   1 root root      268992 Nov  8  2021 grub2-menulst2cfg
+-rwxr-xr-x   1 root root      315544 Nov  8  2021 grub2-mkfont
+-rwxr-xr-x   1 root root      437760 Nov  8  2021 grub2-mkimage
+-rwxr-xr-x   1 root root      292440 Nov  8  2021 grub2-mklayout
+-rwxr-xr-x   1 root root      493448 Nov  8  2021 grub2-mknetdir
+-rwxr-xr-x   1 root root      294848 Nov  8  2021 grub2-mkpasswd-pbkdf2
+-rwxr-xr-x   1 root root      285984 Nov  8  2021 grub2-mkrelpath
+-rwxr-xr-x   1 root root     1149488 Nov  8  2021 grub2-mkrescue
+-rwxr-xr-x   1 root root      604592 Nov  8  2021 grub2-mkstandalone
+-rwxr-xr-x   1 root root      938944 Nov  8  2021 grub2-render-label
+-rwxr-xr-x   1 root root      319488 Nov  8  2021 grub2-script-check
+-rwxr-xr-x   1 root root      865832 Nov  8  2021 grub2-syslinux2cfg
+-rwxr-xr-x   1 root root       29272 Jul  7  2021 gsettings
+lrwxrwxrwx.  1 root root           6 May 28  2019 gsoelim -> soelim
+-rwxr-xr-x   1 root root       25088 Aug 26  2021 gss-client
+-rwxr-xr-x   1 root root        1064 Aug 10  2021 gstack
+lrwxrwxrwx   1 root root           3 Jul 21  2020 gtar -> tar
+lrwxrwxrwx.  1 root root           3 May 28  2019 gtbl -> tbl
+-rwxr-xr-x   1 root root       25064 Jul  7  2021 gtester
+-rwxr-xr-x   1 root root       18843 Jul  7  2021 gtester-report
+-rwxr-xr-x   1 root root     1877752 Jul 28  2021 gtk3-demo
+-rwxr-xr-x   1 root root     1537664 Jul 28  2021 gtk3-demo-application
+-rwxr-xr-x   1 root root       70784 Jul 28  2021 gtk3-icon-browser
+-rwxr-xr-x   1 root root      183824 Jul 28  2021 gtk3-widget-factory
+-rwxr-xr-x   1 root root       33704 Jul 28  2021 gtk-builder-tool
+-rwxr-xr-x   1 root root       16768 Jul 28  2021 gtk-encode-symbolic-svg
+-rwxr-xr-x   1 root root       16400 Jul 28  2021 gtk-launch
+-rwxr-xr-x   1 root root       16936 Jan 13  2021 gtk-query-immodules-2.0-64
+-rwxr-xr-x   1 root root       21056 Jul 28  2021 gtk-query-immodules-3.0-64
+-rwxr-xr-x   1 root root       12120 Jul 28  2021 gtk-query-settings
+-rwxr-xr-x   1 root root       33800 Jul 28  2021 gtk-update-icon-cache
+lrwxrwxrwx.  1 root root           5 May 28  2019 gtroff -> troff
+-rwxr-xr-x   1 root root        2868 May 14  2019 guild
+-rwxr-xr-x   1 root root       13472 May 14  2019 guile
+lrwxrwxrwx   1 root root           5 May 14  2019 guile2 -> guile
+lrwxrwxrwx   1 root root          11 May 14  2019 guile2-tools -> guile-tools
+lrwxrwxrwx   1 root root           5 May 14  2019 guile-tools -> guild
+-rwxr-xr-x   1 root root        2345 Jan 13  2021 gunzip
+-rwxr-xr-x   1 root root       25312 Jun 11  2021 gv2gml
+lrwxrwxrwx   1 root root           6 Jun 11  2021 gv2gxl -> gxl2gv
+-rwxr-xr-x   1 root root       48040 Jun 11  2021 gvcolor
+-rwxr-xr-x   1 root root       25440 Jun 11  2021 gvgen
+-rwxr-xr-x   1 root root      539016 Jun 11  2021 gvmap
+-rwxr-xr-x   1 root root        2190 Jun 11  2021 gvmap.sh
+-rwxr-xr-x   1 root root       29568 Jun 11  2021 gvpack
+-rwxr-xr-x   1 root root        8048 Jun 11  2021 gvpr
+lrwxrwxrwx   1 root root           6 Jun 11  2021 gxl2dot -> gxl2gv
+-rwxr-xr-x   1 root root       42320 Jun 11  2021 gxl2gv
+-rwxr-xr-x   1 root root        6375 Jan 13  2021 gzexe
+-rwxr-xr-x   1 root root       97168 Jan 13  2021 gzip
+-rwxr-xr-x   1 root root          28 Jul 27  2021 hash
+-rwxr-xr-x   1 root root       45384 May 14  2019 hb-ot-shape-closure
+-rwxr-xr-x   1 root root       49672 May 14  2019 hb-shape
+-rwxr-xr-x   1 root root       72096 May 14  2019 hb-view
+-rwxr-xr-x   1 root root       46568 Jul 14  2021 head
+-rwxr-xr-x   1 root root       58888 Jul 21  2021 hexdump
+-rwxr-xr-x   1 root root       21152 Jan 19  2021 hltest
+-rwxr-xr-x   1 root root        9990 Jun 29  2021 hmaptool
+-rwxr-xr-x   1 root root       34104 Jul 14  2021 hostid
+-rwxr-xr-x.  1 root root       21664 May 11  2019 hostname
+-rwxr-xr-x   1 root root       21320 Dec 22  2021 hostnamectl
+lrwxrwxrwx   1 root root          22 Jul 23  2021 hsdb -> /etc/alternatives/hsdb
+-rwxr-xr-x   1 root root        9692 Aug 26  2021 hwasan_symbolize
+lrwxrwxrwx   1 root root           7 Jul 21  2021 i386 -> setarch
+-rwxr-xr-x   1 root root        5727 May 17  2021 ibdev2netdev
+-rwxr-xr-x   1 root root       42872 May 14  2019 iceauth
+-rwxr-xr-x   1 root root       84512 Aug 25  2021 iconv
+-rwxr-xr-x   1 root root         191 Mar 21  2020 icu-config
+-rwxr-xr-x   1 root root       22015 Mar 21  2020 icu-config-64
+-rwxr-xr-x   1 root root       18584 Mar 21  2020 icuinfo
+-rwxr-xr-x   1 root root       46504 Jul 14  2021 id
+-rwxr-xr-x.  1 root root       12328 Apr  7  2020 idiag-socket-details
+lrwxrwxrwx   1 root root          22 Jul 23  2021 idlj -> /etc/alternatives/idlj
+-rwxr-xr-x   1 root root       40352 May 14  2019 idn
+-rwxr-xr-x   1 root root        4128 Jul  9  2021 ifnames
+-rwxr-xr-x   1 root root       23896 Dec 22  2021 iio_event_monitor
+-rwxr-xr-x   1 root root       28136 Dec 22  2021 iio_generic_buffer
+-rwxr-xr-x.  1 root root      255920 Apr 24  2020 info
+-rwxr-xr-x   1 root root       62488 Jun  1  2021 infocmp
+lrwxrwxrwx   1 root root           3 Jun  1  2021 infotocap -> tic
+-rwxr-xr-x   1 root root       33544 May 14  2019 inputattach
+-rwxr-xr-x   1 root root      159880 Jul 14  2021 install
+-rwxr-xr-x   1 root root        4374 May 11  2019 install-catalog
+-rwxr-xr-x   1 root root       83368 Dec 22  2021 intel-speed-select
+-rwxr-xr-x   1 root root       56768 May 14  2019 interdiff
+-rwxr-xr-x   1 root root       31150 May 14  2019 intltool-extract
+-rwxr-xr-x   1 root root        7152 May 14  2019 intltoolize
+-rwxr-xr-x   1 root root       39876 May 14  2019 intltool-merge
+-rwxr-xr-x   1 root root        8605 May 14  2019 intltool-prepare
+-rwxr-xr-x   1 root root       35553 May 14  2019 intltool-update
+-rwxr-xr-x   1 root root       29656 Jul 21  2021 ionice
+-rwxr-xr-x.  1 root root       45560 Apr  7  2020 ipcalc
+-rwxr-xr-x   1 root root       29816 Jul 21  2021 ipcmk
+-rwxr-xr-x   1 root root       29664 Jul 21  2021 ipcrm
+-rwxr-xr-x   1 root root       54696 Jul 21  2021 ipcs
+-rwxr-xr-x   1 root root       25416 Jul 21  2021 isosize
+lrwxrwxrwx   1 root root          21 Jul 23  2021 jar -> /etc/alternatives/jar
+lrwxrwxrwx   1 root root          27 Jul 23  2021 jarsigner -> /etc/alternatives/jarsigner
+lrwxrwxrwx   1 root root          22 Jul 23  2021 java -> /etc/alternatives/java
+-rwxr-xr-x   1 root root          48 Dec 23  2020 java2html
+lrwxrwxrwx   1 root root          23 Jul 23  2021 javac -> /etc/alternatives/javac
+lrwxrwxrwx   1 root root          25 Jul 23  2021 javadoc -> /etc/alternatives/javadoc
+lrwxrwxrwx   1 root root          23 Jul 23  2021 javah -> /etc/alternatives/javah
+lrwxrwxrwx   1 root root          23 Jul 23  2021 javap -> /etc/alternatives/javap
+lrwxrwxrwx   1 root root          22 Jul 23  2021 jcmd -> /etc/alternatives/jcmd
+lrwxrwxrwx   1 root root          26 Jul 23  2021 jconsole -> /etc/alternatives/jconsole
+lrwxrwxrwx   1 root root          21 Jul 23  2021 jdb -> /etc/alternatives/jdb
+lrwxrwxrwx   1 root root          23 Jul 23  2021 jdeps -> /etc/alternatives/jdeps
+lrwxrwxrwx   1 root root          21 Jul 23  2021 jfr -> /etc/alternatives/jfr
+lrwxrwxrwx   1 root root          22 Jul 23  2021 jhat -> /etc/alternatives/jhat
+lrwxrwxrwx   1 root root          23 Jul 23  2021 jinfo -> /etc/alternatives/jinfo
+lrwxrwxrwx   1 root root          21 Jul 23  2021 jjs -> /etc/alternatives/jjs
+lrwxrwxrwx   1 root root          22 Jul 23  2021 jmap -> /etc/alternatives/jmap
+-rwxr-xr-x   1 root root          28 Jul 27  2021 jobs
+-rwxr-xr-x   1 root root       54952 Jul 14  2021 join
+-rwxr-xr-x   1 root root       78824 Dec 22  2021 journalctl
+lrwxrwxrwx   1 root root          21 Jul 23  2021 jps -> /etc/alternatives/jps
+lrwxrwxrwx   1 root root          28 Jul 23  2021 jrunscript -> /etc/alternatives/jrunscript
+lrwxrwxrwx   1 root root          27 Jul 23  2021 jsadebugd -> /etc/alternatives/jsadebugd
+-rwxr-xr-x   1 root root       26688 May 14  2019 jscal
+-rwxr-xr-x   1 root root        1456 May 14  2019 jscal-restore
+-rwxr-xr-x   1 root root        2120 May 14  2019 jscal-store
+lrwxrwxrwx   1 root root          24 Jul 23  2021 jstack -> /etc/alternatives/jstack
+lrwxrwxrwx   1 root root          23 Jul 23  2021 jstat -> /etc/alternatives/jstat
+lrwxrwxrwx   1 root root          24 Jul 23  2021 jstatd -> /etc/alternatives/jstatd
+-rwxr-xr-x   1 root root       22576 May 14  2019 jstest
+-rwxr-xr-x   1 root root       17016 Jul 21  2020 kbdinfo
+-rwxr-xr-x   1 root root       12912 Jul 21  2020 kbd_mode
+-rwxr-xr-x   1 root root       16976 Jul 21  2020 kbdrate
+-rwxr-xr-x   1 root root      181792 May 16  2020 kbxutil
+-rwxr-xr-x   1 root root       34185 Dec 22  2021 kdumpctl
+-rwxr-xr-x   1 root root        4511 Jun 22  2018 kernel-install
+lrwxrwxrwx   1 root root          25 Jul 23  2021 keytool -> /etc/alternatives/keytool
+-rwxr-xr-x   1 root root       38176 Jul 21  2021 kill
+-rwxr-xr-x   1 root root       30440 Jul 22  2020 killall
+-rwxr-xr-x   1 root root      163312 Jun  5  2021 kmod
+-rwxr-xr-x   1 root root        7144 Aug 26  2021 krb5-config
+-rwxr-xr-x   1 root root       62291 Dec  9  2021 kvm_stat
+-rwxr-xr-x   1 root root       50464 Jul 21  2021 last
+lrwxrwxrwx   1 root root           4 Jul 21  2021 lastb -> last
+-rwxr-xr-x   1 root root       21112 Aug 19  2021 lastlog
+-rwxr-xr-x.  1 root root       25032 Nov  9  2019 lchfn
+-rwxr-xr-x.  1 root root       20936 Nov  9  2019 lchsh
+lrwxrwxrwx   1 root root          20 May 24 14:48 ld -> /etc/alternatives/ld
+-rwxr-xr-x   1 root root     1789072 Nov 12  2021 ld.bfd
+-rwxr-xr-x   1 root root        5441 Aug 25  2021 ldd
+-rwxr-xr-x   1 root root     2505392 Nov 12  2021 ld.gold
+-rwxr-xr-x   1 root root      311880 Jun 11  2021 lefty
+-rwxr-xr-x.  1 root root      192040 May 11  2019 less
+-rwxr-xr-x.  1 root root       13840 May 11  2019 lessecho
+-rwxr-xr-x.  1 root root       23664 May 11  2019 lesskey
+-rwxr-xr-x.  1 root root        3143 May 11  2019 lesspipe.sh
+lrwxrwxrwx   1 root root           4 May 14  2019 lex -> flex
+-rwxr-xr-x   1 root root       95904 Jun 30  2021 lexgrog
+-rwxr-xr-x   1 root root        2382 May 11  2019 libpng16-config
+lrwxrwxrwx   1 root root          15 May 11  2019 libpng-config -> libpng16-config
+-rwxr-xr-x   1 root root      367720 May 11  2019 libtool
+-rwxr-xr-x   1 root root      129197 May 11  2019 libtoolize
+-rwxr-xr-x   1 root root       34104 Jul 14  2021 link
+lrwxrwxrwx   1 root root           7 Jul 21  2021 linux32 -> setarch
+lrwxrwxrwx   1 root root           7 Jul 21  2021 linux64 -> setarch
+-rwxr-xr-x   1 root root        5993 Aug 25  2021 linux-boot-prober
+-rwxr-xr-x   1 root root       72168 Jul 14  2021 ln
+-rwxr-xr-x   1 root root        1547 Jun 11  2021 lneato
+-rwxr-xr-x   1 root root      215640 Jul 21  2020 loadkeys
+-rwxr-xr-x   1 root root       29768 Jul 21  2020 loadunimap
+-rwxr-xr-x   1 root root       75272 Aug 25  2021 locale
+-rwxr-xr-x   1 root root       29536 Dec 22  2021 localectl
+-rwxr-xr-x   1 root root      365008 Aug 25  2021 localedef
+-rwxr-xr-x   1 root root       51192 Jul 21  2021 logger
+-rwxr-xr-x   1 root root       41920 Jul 21  2021 login
+-rwxr-xr-x   1 root root       58696 Dec 22  2021 loginctl
+-rwxr-xr-x   1 root root       34120 Jul 14  2021 logname
+-rwxr-xr-x   1 root root       16840 Jul 21  2021 look
+-rwxr-xr-x   1 root root      143224 Jul 14  2021 ls
+-rwxr-xr-x   1 root root       12216 Jun 24  2021 lsattr
+-rwxr-xr-x   1 root root       88192 Jul 21  2021 lsblk
+-rwxr-xr-x   1 root root       79568 Jul 21  2021 lscpu
+lrwxrwxrwx   1 root root          10 May 14  2019 lsdiff -> filterdiff
+-rwxr-xr-x   1 root root       15936 Dec 22  2021 lsgpio
+-rwxr-xr-x   1 root root       23896 Dec 22  2021 lsiio
+-rwxr-xr-x   1 root root        8886 Sep 30  2021 lsinitrd
+-rwxr-xr-x   1 root root       75552 Jul 21  2021 lsipc
+-rwxr-xr-x   1 root root       38424 Jul 21  2021 lslocks
+-rwxr-xr-x   1 root root       67184 Jul 21  2021 lslogins
+-rwxr-xr-x   1 root root       46424 Jul 21  2021 lsmem
+-rwxr-xr-x   1 root root       50472 Jul 21  2021 lsns
+-rwxr-xr-x   1 root root      179608 Apr 27  2020 lsof
+-rwxr-xr-x   1 root root       88104 Aug 25  2021 lsscsi
+-rwxr-xr-x   1 root root      239384 Apr  7  2020 ltrace
+-rwxr-xr-x   1 root root       20936 Aug 25  2021 lua
+-rwxr-xr-x   1 root root      156400 Aug 25  2021 luac
+-rwxr-xr-x   1 root root      190016 May 11  2019 m4
+lrwxrwxrwx   1 root root          27 May  2 04:09 mailq -> /etc/alternatives/mta-mailq
+lrwxrwxrwx   1 root root          31 Aug 10  2021 mailq.postfix -> ../../usr/sbin/sendmail.postfix
+-rwxr-xr-x   1 root root      240480 Mar 26  2020 make
+-rwxr-xr-x   1 root root       34680 Aug 25  2021 makedb
+-rwxr-xr-x   1 root root         610 Dec  3  2021 make-dummy-cert
+-rwxr-xr-x   1 root root      115176 Jun 30  2021 man
+-rwxr-xr-x   1 root root      137744 Jun 30  2021 mandb
+-rwxr-xr-x   1 root root       34200 Jun 30  2021 manpath
+-rwxr-xr-x   1 root root       25496 Jul 21  2020 mapscrn
+-rwxr-xr-x   1 root root       34032 Jul 21  2021 mcookie
+-rwxr-xr-x   1 root root        9232 May 14  2019 mcpp
+-rwxr-xr-x   1 root root       46592 Jul 14  2021 md5sum
+-rwxr-xr-x   1 root root       77352 Aug 12  2020 memstrack
+-rwxr-xr-x   1 root root       16696 Jul 21  2021 mesg
+-rwxr-xr-x   1 root root       21456 Jan 19  2021 mev
+-rwxr-xr-x   1 root root       84664 Jul 14  2021 mkdir
+-rwxr-xr-x   1 root root       68056 Jul 14  2021 mkfifo
+-rwxr-xr-x   1 root root          65 May 25  2021 mkfontdir
+-rwxr-xr-x   1 root root       42552 May 25  2021 mkfontscale
+-rwxr-xr-x   1 root root        6585 Sep 30  2021 mkinitrd
+-rwxr-xr-x   1 root root       72136 Jul 14  2021 mknod
+-rwxr-xr-x   1 root root       46744 Jul 14  2021 mktemp
+-rwxr-xr-x   1 root root       92760 Jun 11  2021 mm2gv
+-rwxr-xr-x   1 root root      269944 Dec  3  2021 modularize
+-rwxr-xr-x   1 root root       25560 Aug 25  2021 modulemd-validator
+-rwxr-xr-x   1 root root       16680 Aug 25  2021 modulemd-validator-v1
+-rwxr-xr-x   1 root root      177648 Dec  3  2021 modutil
+-rwxr-xr-x   1 root root       51312 Jan 20  2021 mokutil
+-rwxr-xr-x   1 root root       46024 Jul 21  2021 more
+-rwsr-xr-x   1 root root       50320 Jul 21  2021 mount
+-rwxr-xr-x   1 root root       16872 Jul 21  2021 mountpoint
+-rwxr-xr-x   1 root root       97200 Jan 19  2021 mouse-test
+-rwxr-xr-x.  1 root root       27840 Nov  9  2019 msgattrib
+-rwxr-xr-x.  1 root root       27744 Nov  9  2019 msgcat
+-rwxr-xr-x.  1 root root       30296 Nov  9  2019 msgcmp
+-rwxr-xr-x.  1 root root       27752 Nov  9  2019 msgcomm
+-rwxr-xr-x.  1 root root       23648 Nov  9  2019 msgconv
+-rwxr-xr-x.  1 root root       23648 Nov  9  2019 msgen
+-rwxr-xr-x.  1 root root       23656 Nov  9  2019 msgexec
+-rwxr-xr-x.  1 root root       40568 Nov  9  2019 msgfilter
+-rwxr-xr-x.  1 root root      110832 Nov  9  2019 msgfmt
+-rwxr-xr-x.  1 root root       53608 Nov  9  2019 msggrep
+-rwxr-xr-x.  1 root root       78112 Nov  9  2019 msginit
+-rwxr-xr-x.  1 root root       79864 Nov  9  2019 msgmerge
+-rwxr-xr-x.  1 root root       46248 Nov  9  2019 msgunfmt
+-rwxr-xr-x.  1 root root       27752 Nov  9  2019 msguniq
+-rwxr-xr-x   1 root root       24327 Jul  9  2021 ms_print
+-rwxr-xr-x   1 root root      147416 Jul 14  2021 mv
+-rwxr-xr-x   1 root root       33904 Jul 21  2021 namei
+lrwxrwxrwx   1 root root          30 Jul 23  2021 native2ascii -> /etc/alternatives/native2ascii
+-rwxr-xr-x   1 root root        6015 Jun  1  2021 ncurses6-config
+-rwxr-xr-x   1 root root        6018 Jun  1  2021 ncursesw6-config
+-rwxr-xr-x   1 root root       25040 May  3  2021 ndptool
+lrwxrwxrwx   1 root root           3 Jun 11  2021 neato -> dot
+-rwxr-xr-x.  1 root root         908 May 28  2019 neqn
+-rwxr-xr-x   1 root root      162416 Apr 27  2020 netstat
+lrwxrwxrwx   1 root root          32 May  2 04:09 newaliases -> /etc/alternatives/mta-newaliases
+lrwxrwxrwx   1 root root          31 Aug 10  2021 newaliases.postfix -> ../../usr/sbin/sendmail.postfix
+-rwxr-xr-x   1 root root       44584 Aug 19  2021 newgidmap
+-rwsr-xr-x   1 root root       43424 Aug 19  2021 newgrp
+-rwxr-xr-x   1 root root       44552 Aug 19  2021 newuidmap
+-rwxr-xr-x.  1 root root       16800 Apr  7  2020 nf-ct-add
+-rwxr-xr-x.  1 root root       12472 Apr  7  2020 nf-ct-events
+-rwxr-xr-x.  1 root root       16832 Apr  7  2020 nf-ct-list
+-rwxr-xr-x.  1 root root       17216 Apr  7  2020 nf-exp-add
+-rwxr-xr-x.  1 root root       17000 Apr  7  2020 nf-exp-delete
+-rwxr-xr-x.  1 root root       16832 Apr  7  2020 nf-exp-list
+-rwxr-xr-x.  1 root root       12464 Apr  7  2020 nf-log
+-rwxr-xr-x.  1 root root       12464 Apr  7  2020 nf-monitor
+-rwxr-xr-x.  1 root root       16552 Apr  7  2020 nf-queue
+-rwxr-xr-x.  1 root root       79040 Nov  9  2019 ngettext
+-rwxr-xr-x   1 root root       38200 Jul 14  2021 nice
+lrwxrwxrwx.  1 root root           8 May 11  2019 nisdomainname -> hostname
+-rwxr-xr-x   1 root root       46616 Jul 14  2021 nl
+-rwxr-xr-x.  1 root root       12584 Apr  7  2020 nl-addr-add
+-rwxr-xr-x.  1 root root       17064 Apr  7  2020 nl-addr-delete
+-rwxr-xr-x.  1 root root       17088 Apr  7  2020 nl-addr-list
+-rwxr-xr-x.  1 root root       17000 Apr  7  2020 nl-class-add
+-rwxr-xr-x.  1 root root       12808 Apr  7  2020 nl-class-delete
+-rwxr-xr-x.  1 root root       12648 Apr  7  2020 nl-classid-lookup
+-rwxr-xr-x.  1 root root       12768 Apr  7  2020 nl-class-list
+-rwxr-xr-x.  1 root root       17064 Apr  7  2020 nl-cls-add
+-rwxr-xr-x.  1 root root       16984 Apr  7  2020 nl-cls-delete
+-rwxr-xr-x.  1 root root       12840 Apr  7  2020 nl-cls-list
+-rwxr-xr-x.  1 root root       12672 Apr  7  2020 nl-fib-lookup
+-rwxr-xr-x.  1 root root       12088 Apr  7  2020 nl-link-enslave
+-rwxr-xr-x.  1 root root       12088 Apr  7  2020 nl-link-ifindex2name
+-rwxr-xr-x.  1 root root       12488 Apr  7  2020 nl-link-list
+-rwxr-xr-x.  1 root root       12088 Apr  7  2020 nl-link-name2ifindex
+-rwxr-xr-x.  1 root root       12088 Apr  7  2020 nl-link-release
+-rwxr-xr-x.  1 root root       12888 Apr  7  2020 nl-link-set
+-rwxr-xr-x.  1 root root       12680 Apr  7  2020 nl-link-stats
+-rwxr-xr-x.  1 root root       12448 Apr  7  2020 nl-list-caches
+-rwxr-xr-x.  1 root root       12088 Apr  7  2020 nl-list-sockets
+-rwxr-xr-x.  1 root root       12568 Apr  7  2020 nl-monitor
+-rwxr-xr-x.  1 root root       12808 Apr  7  2020 nl-neigh-add
+-rwxr-xr-x.  1 root root       12840 Apr  7  2020 nl-neigh-delete
+-rwxr-xr-x.  1 root root       12416 Apr  7  2020 nl-neigh-list
+-rwxr-xr-x.  1 root root       12240 Apr  7  2020 nl-neightbl-list
+-rwxr-xr-x.  1 root root       12680 Apr  7  2020 nl-pktloc-lookup
+-rwxr-xr-x.  1 root root       12840 Apr  7  2020 nl-qdisc-add
+-rwxr-xr-x.  1 root root       12808 Apr  7  2020 nl-qdisc-delete
+-rwxr-xr-x.  1 root root       16936 Apr  7  2020 nl-qdisc-list
+-rwxr-xr-x.  1 root root       16744 Apr  7  2020 nl-route-add
+-rwxr-xr-x.  1 root root       17160 Apr  7  2020 nl-route-delete
+-rwxr-xr-x.  1 root root       12448 Apr  7  2020 nl-route-get
+-rwxr-xr-x.  1 root root       16768 Apr  7  2020 nl-route-list
+-rwxr-xr-x.  1 root root       12288 Apr  7  2020 nl-rule-list
+-rwxr-xr-x.  1 root root       12744 Apr  7  2020 nl-tctree-list
+-rwxr-xr-x.  1 root root       12080 Apr  7  2020 nl-util-addr
+-rwxr-xr-x   1 root root       51464 Nov 12  2021 nm
+-rwxr-xr-x   1 root root     1015360 Nov 10  2021 nmcli
+-rwxr-xr-x   1 root root       20816 Nov 10  2021 nm-online
+-rwxr-xr-x   1 root root      776696 Nov 10  2021 nmtui
+lrwxrwxrwx   1 root root           5 Nov 10  2021 nmtui-connect -> nmtui
+lrwxrwxrwx   1 root root           5 Nov 10  2021 nmtui-edit -> nmtui
+lrwxrwxrwx   1 root root           5 Nov 10  2021 nmtui-hostname -> nmtui
+-rwxr-xr-x   1 root root       38288 Jul 14  2021 nohup
+-rwxr-xr-x   1 root root       12784 Jun 11  2021 nop
+-rwxr-xr-x   1 root root       38280 Jul 14  2021 nproc
+-rwxr-xr-x.  1 root root        3312 May 28  2019 nroff
+-rwxr-xr-x   1 root root       34072 Jul 21  2021 nsenter
+-rwxr-xr-x   1 root root       16656 Dec  3  2021 nss-policy-check
+-rwxr-xr-x   1 root root       67184 Jul 14  2021 numfmt
+-rwxr-xr-x   1 root root      245864 Nov 12  2021 objcopy
+-rwxr-xr-x   1 root root      429664 Nov 12  2021 objdump
+-rwxr-xr-x   1 root root       75552 Jul 14  2021 od
+lrwxrwxrwx   1 root root           6 Jul 21  2020 open -> openvt
+-rwxr-xr-x   1 root root      763928 Dec  3  2021 openssl
+-rwxr-xr-x   1 root root       21528 Jul 21  2020 openvt
+lrwxrwxrwx   1 root root          22 Jul 23  2021 orbd -> /etc/alternatives/orbd
+lrwxrwxrwx   1 root root           3 Jun 11  2021 osage -> dot
+-rwxr-xr-x   1 root root        5915 Aug 25  2021 os-prober
+-rwxr-xr-x   1 root root       38224 Jan 12  2021 p11-kit
+lrwxrwxrwx   1 root root          25 Jul 23  2021 pack200 -> /etc/alternatives/pack200
+-rwxr-xr-x   1 root root       11200 Dec 22  2021 page_owner_sort
+-rwxr-xr-x   1 root root       12168 Jun 11  2021 pango-list
+-rwxr-xr-x   1 root root       58808 Jun 11  2021 pango-view
+-rwxr-xr-x   1 root root       13384 May 14  2019 paperconf
+-rwsr-xr-x.  1 root root       33600 Apr  7  2020 passwd
+-rwxr-xr-x   1 root root       38256 Jul 14  2021 paste
+-rwxr-xr-x   1 root root      200784 Apr  7  2020 patch
+lrwxrwxrwx   1 root root           3 Jun 11  2021 patchwork -> dot
+-rwxr-xr-x   1 root root       38208 Jul 14  2021 pathchk
+-rwxr-xr-x.  1 root root        4634 Nov  9  2019 pchrt
+-rwxr-xr-x   1 root root        1950 Jun 16  2020 pcre2-config
+-rwxr-xr-x   1 root root        2138 Jun  7  2021 pcre-config
+-rwxr-xr-x   1 root root       16904 Jul 22  2020 peekfd
+-rwxr-xr-x   2 root root       12720 Jun 19  2021 perl
+-rwxr-xr-x   2 root root       12720 Jun 19  2021 perl5.26.3
+-rwxr-xr-x   1 root root         118 May 11  2019 perldoc
+-rwxr-xr-x   1 root root      157248 May 14  2019 pesigcheck
+-rwxr-xr-x   1 root root      200312 May 14  2019 pesign
+-rwxr-xr-x   1 root root      156896 May 14  2019 pesign-client
+-rwxr-xr-x   1 root root        2383 Jan 13  2021 pflags
+-rwxr-xr-x   1 root root       29536 Feb  2  2021 pgrep
+-rwxr-xr-x.  1 root root      247592 May 28  2019 pic
+-rwxr-xr-x   1 root root        8271 May 11  2019 piconv
+-rwxr-xr-x   1 root root       17096 Feb  2  2021 pidof
+-rwxr-xr-x.  2 root root      125176 Apr  7  2020 pigz
+-rwxr-xr-x   1 root root        2404 May 14  2019 pinentry
+-rwxr-xr-x   1 root root       79776 May 14  2019 pinentry-curses
+-rwxr-xr-x   1 root root       67680 Feb 23  2021 ping
+-rwxr-xr-x   1 root root       42424 Jul 14  2021 pinky
+lrwxrwxrwx   1 root root          23 Jul 23  2021 pip-3 -> /etc/alternatives/pip-3
+lrwxrwxrwx   1 root root          22 Jul 23  2021 pip3 -> /etc/alternatives/pip3
+lrwxrwxrwx   1 root root           8 Jun 21  2021 pip-3.6 -> ./pip3.6
+-rwxr-xr-x   1 root root         209 Jun 21  2021 pip3.6
+-rwxr-xr-x   1 root root      109720 Dec  3  2021 pk12util
+-rwxr-xr-x   1 root root       16768 Jun  2  2021 pkaction
+-rwxr-xr-x   1 root root       24976 Jun  2  2021 pkcheck
+-rwsr-xr-x   1 root root       29072 Jun  2  2021 pkexec
+-rwxr-xr-x.  1 root root       41000 May 11  2019 pkgconf
+lrwxrwxrwx.  1 root root           7 May 11  2019 pkg-config -> pkgconf
+-rwxr-xr-x   1 root root       29536 Feb  2  2021 pkill
+-rwxr-xr-x.  1 root root       26360 May 11  2019 pkla-admin-identities
+-rwxr-xr-x.  1 root root       34608 May 11  2019 pkla-check-authorization
+-rwxr-xr-x   1 root root       20712 Jun  2  2021 pkttyagent
+-rwxr-xr-x   1 root root       23464 Aug 25  2021 pldd
+-rwxr-xr-x   1 root root       33576 Feb  2  2021 pmap
+-rwxr-xr-x   1 root root       54816 May 11  2019 pngfix
+-rwxr-xr-x   1 root root       13352 May 11  2019 png-fix-itxt
+-rwxr-xr-x   1 root root       15034 May 11  2019 pod2man
+-rwxr-xr-x   1 root root       10803 May 11  2019 pod2text
+-rwxr-xr-x   1 root root        3948 May 11  2019 pod2usage
+lrwxrwxrwx   1 root root          28 Jul 23  2021 policytool -> /etc/alternatives/policytool
+-rwxr-xr-x.  1 root root      244456 May 28  2019 post-grohtml
+-rwxr-xr-x   1 root root       11192 Dec 22  2021 powernow-k8-decode
+-rwxr-xr-x   1 root root       67672 Dec  3  2021 pp-trace
+-rwxr-xr-x   1 root root       84088 Jul 14  2021 pr
+-rwxr-xr-x.  1 root root       59032 May 28  2019 preconv
+-rwxr-xr-x.  1 root root      133688 May 28  2019 pre-grohtml
+-rwxr-xr-x   1 root root       34088 Jul 14  2021 printenv
+-rwxr-xr-x   1 root root       54816 Jul 14  2021 printf
+-rwxr-xr-x   1 root root       38408 Jul 21  2021 prlimit
+-rwxr-xr-x   1 root root       20992 Jul 22  2020 prtstat
+-rwxr-xr-x   1 root root       17152 Jun 11  2021 prune
+-rwxr-xr-x   1 root root      138000 Feb  2  2021 ps
+lrwxrwxrwx   1 root root           9 Jul 21  2020 psfaddtable -> psfxtable
+lrwxrwxrwx   1 root root           9 Jul 21  2020 psfgettable -> psfxtable
+lrwxrwxrwx   1 root root           9 Jul 21  2020 psfstriptable -> psfxtable
+-rwxr-xr-x   1 root root       21208 Jul 21  2020 psfxtable
+-rwxr-xr-x   1 root root       12784 Jul 22  2020 pslog
+lrwxrwxrwx   1 root root           6 Aug 10  2021 pstack -> gstack
+-rwxr-xr-x   1 root root       34336 Jul 22  2020 pstree
+lrwxrwxrwx   1 root root           6 Jul 22  2020 pstree.x11 -> pstree
+-rwxr-xr-x.  1 root root        4585 Nov  9  2019 ptaskset
+-rwxr-xr-x   1 root root       79856 Jul 14  2021 ptx
+-rwxr-xr-x   1 root root       38280 Jul 14  2021 pwd
+-rwxr-xr-x   1 root root       12992 Feb  2  2021 pwdx
+-rwxr-xr-x   1 root root       12528 Feb 23  2021 pwmake
+-rwxr-xr-x   1 root root       12528 Feb 23  2021 pwscore
+lrwxrwxrwx   1 root root          25 Jul 23  2021 pydoc-3 -> /etc/alternatives/pydoc-3
+lrwxrwxrwx   1 root root          24 Jul 23  2021 pydoc3 -> /etc/alternatives/pydoc3
+-rwxr-xr-x   1 root root          89 Sep 10  2021 pydoc3.6
+lrwxrwxrwx   1 root root          25 Jul 23  2021 python3 -> /etc/alternatives/python3
+lrwxrwxrwx   1 root root          31 Aug 25  2021 python3.6 -> /usr/libexec/platform-python3.6
+lrwxrwxrwx   1 root root          32 Aug 25  2021 python3.6m -> /usr/libexec/platform-python3.6m
+lrwxrwxrwx   1 root root          26 Jul 23  2021 pyvenv-3 -> /etc/alternatives/pyvenv-3
+-rwxr-xr-x   1 root root         446 Sep 10  2021 pyvenv-3.6
+-rwxr-xr-x   1 root root      677960 Jun 17  2020 pzstd
+-rwxr-xr-x   1 root root       63432 Nov 12  2021 ranlib
+-rwxr-xr-x   1 root root       16896 Jul 21  2021 raw
+-rwxr-xr-x   3 root root       79456 May 11  2019 rb
+-rwxr-xr-x   1 root root          28 Jul 27  2021 read
+-rwxr-xr-x   1 root root      639560 Nov 12  2021 readelf
+-rwxr-xr-x   1 root root       46968 Jul 14  2021 readlink
+-rwxr-xr-x   1 root root       51128 Jul 14  2021 realpath
+-rwxr-xr-x.  1 root root       21464 Nov  9  2019 recode-sr-latin
+-rwxr-xr-x   1 root root        3445 May 14  2019 recountdiff
+-rwxr-xr-x   1 root root       43880 May 14  2019 rediff
+-rwxr-xr-x   1 root root       16904 Jul 21  2021 rename
+-rwxr-xr-x   1 root root         725 Dec  3  2021 renew-dummy-cert
+-rwxr-xr-x   1 root root       16848 Jul 21  2021 renice
+-rwxr-xr-x.  1 root root       39161 Apr 24  2020 rescan-scsi-bus.sh
+lrwxrwxrwx   1 root root           4 Jun  1  2021 reset -> tset
+-rwxr-xr-x   1 root root       21328 Jul 21  2020 resizecons
+-rwxr-xr-x   1 root root      200456 Dec 22  2021 resolvectl
+-rwxr-xr-x   1 root root       12744 Jul 21  2021 rev
+-rwxr-xr-x   1 root root     5149168 Nov 17  2022 rg
+-rwxr-xr-x   1 root root       72048 Jul 14  2021 rm
+lrwxrwxrwx   1 root root          27 May  2 04:09 rmail -> /etc/alternatives/mta-rmail
+-rwxr-xr-x   1 root root         262 Aug 10  2021 rmail.postfix
+-rwxr-xr-x   1 root root       46528 Jul 14  2021 rmdir
+lrwxrwxrwx   1 root root          22 Jul 23  2021 rmic -> /etc/alternatives/rmic
+lrwxrwxrwx   1 root root          22 Jul 23  2021 rmid -> /etc/alternatives/rmid
+lrwxrwxrwx   1 root root          29 Jul 23  2021 rmiregistry -> /etc/alternatives/rmiregistry
+-rwxr-xr-x   1 root root       17752 Aug 10  2021 rngtest
+-rwxr-xr-x   1 root root       21328 Oct 16  2021 rpm
+-rwxr-xr-x   1 root root       20416 Oct 16  2021 rpm2archive
+-rwxr-xr-x   1 root root       12216 Oct 16  2021 rpm2cpio
+-rwxr-xr-x   1 root root       31648 Oct 16  2021 rpmbuild
+-rwxr-xr-x   1 root root       17352 Oct 16  2021 rpmdb
+-rwxr-xr-x   1 root root       17256 Oct 16  2021 rpmkeys
+lrwxrwxrwx   1 root root           3 Oct 16  2021 rpmquery -> rpm
+-rwxr-xr-x   1 root root       17392 Oct 16  2021 rpmsign
+-rwxr-xr-x   1 root root       17448 Oct 16  2021 rpmspec
+lrwxrwxrwx   1 root root           3 Oct 16  2021 rpmverify -> rpm
+-rwxr-xr-x   1 root root       38240 Jul 14  2021 runcon
+-rwxr-xr-x   1 root root        1983 Jan 12  2021 run-parts
+lrwxrwxrwx   1 root root           2 Sep 22  2021 rvi -> vi
+lrwxrwxrwx   1 root root           2 Sep 22  2021 rview -> vi
+lrwxrwxrwx   1 root root           3 Sep 22  2021 rvim -> vim
+-rwxr-xr-x   3 root root       79456 May 11  2019 rx
+-rwxr-xr-x   3 root root       79456 May 11  2019 rz
+-rwxr-xr-x   3 root root       87672 May 11  2019 sb
+-rwxr-xr-x   1 root root       21152 Jun 11  2021 sccmap
+lrwxrwxrwx   1 root root          27 Jul 23  2021 schemagen -> /etc/alternatives/schemagen
+-rwxr-xr-x   1 root root      105304 Jul 13  2021 scp
+-rwxr-xr-x   1 root root       37696 Jul 21  2021 script
+-rwxr-xr-x   1 root root       29648 Jul 21  2021 scriptreplay
+-rwxr-xr-x.  1 root root        8585 Apr 24  2020 scsi_logging_level
+-rwxr-xr-x.  1 root root        3602 Apr 24  2020 scsi_mandat
+-rwxr-xr-x.  1 root root        1327 Apr 24  2020 scsi_readcap
+-rwxr-xr-x.  1 root root        1121 Apr 24  2020 scsi_ready
+lrwxrwxrwx.  1 root root          18 Apr 24  2020 scsi-rescan -> rescan-scsi-bus.sh
+-rwxr-xr-x.  1 root root        3857 Apr 24  2020 scsi_satl
+-rwxr-xr-x.  1 root root        1285 Apr 24  2020 scsi_start
+-rwxr-xr-x.  1 root root        1474 Apr 24  2020 scsi_stop
+-rwxr-xr-x.  1 root root         936 Apr 24  2020 scsi_temperature
+-rwxr-xr-x   1 root root       47704 May 11  2019 sctp_darn
+-rwxr-xr-x   1 root root       25984 May 11  2019 sctp_status
+-rwxr-xr-x   1 root root       38344 May 11  2019 sctp_test
+-rwxr-xr-x.  1 root root       54376 Apr  7  2020 sdiff
+-rwxr-xr-x   1 root root       26064 Sep 30  2021 secon
+-rwxr-xr-x   1 root root       21704 May 11  2019 secret-tool
+-rwxr-xr-x   1 root root      118200 Jun 16  2020 sed
+-rwxr-xr-x   1 root root       12512 Sep 30  2021 semodule_expand
+-rwxr-xr-x   1 root root       12520 Sep 30  2021 semodule_link
+-rwxr-xr-x   1 root root       17072 Sep 30  2021 semodule_package
+-rwxr-xr-x   1 root root       12528 Sep 30  2021 semodule_unpackage
+-rwxr-xr-x   1 root root       54712 Jul 14  2021 seq
+lrwxrwxrwx   1 root root          27 Jul 23  2021 serialver -> /etc/alternatives/serialver
+lrwxrwxrwx   1 root root          28 Jul 23  2021 servertool -> /etc/alternatives/servertool
+-rwxr-xr-x   1 root root       17800 May 14  2019 sessreg
+-rwxr-xr-x   1 root root       21248 Jul 21  2021 setarch
+-rwxr-xr-x.  1 root root       42472 May 11  2019 setfacl
+-rwxr-xr-x   1 root root       46328 Jul 21  2020 setfont
+-rwxr-xr-x   1 root root       12920 Jul 21  2020 setkeycodes
+-rwxr-xr-x   1 root root       17056 Jul 21  2020 setleds
+-rwxr-xr-x   1 root root       13000 Jul 21  2020 setmetamode
+-rwxr-xr-x   1 root root       42056 Jul 21  2021 setpriv
+-rwxr-xr-x   1 root root       16712 Jul 21  2021 setsid
+-rwxr-xr-x   1 root root       46200 Jul 21  2021 setterm
+lrwxrwxrwx   1 root root          19 Dec  3  2021 setup-nsssysinit -> setup-nsssysinit.sh
+-rwxr-xr-x   1 root root        1539 Dec  3  2021 setup-nsssysinit.sh
+-rwxr-xr-x   1 root root       17096 Jul 21  2020 setvtrgb
+lrwxrwxrwx   1 root root           3 Jun 11  2021 sfdp -> dot
+-rwxr-xr-x   1 root root      163576 Jul 13  2021 sftp
+lrwxrwxrwx   1 root root           6 Aug 19  2021 sg -> newgrp
+-rwxr-xr-x.  1 root root       16584 Apr 24  2020 sg_bg_ctl
+-rwxr-xr-x.  1 root root       21544 Apr 24  2020 sg_compare_and_write
+-rwxr-xr-x.  1 root root       21440 Apr 24  2020 sg_copy_results
+-rwxr-xr-x.  1 root root       45712 Apr 24  2020 sg_dd
+-rwxr-xr-x.  1 root root       20952 Apr 24  2020 sg_decode_sense
+-rwxr-xr-x.  1 root root       12696 Apr 24  2020 sg_emc_trespass
+-rwxr-xr-x.  1 root root       34232 Apr 24  2020 sg_format
+-rwxr-xr-x.  1 root root       34264 Apr 24  2020 sg_get_config
+-rwxr-xr-x.  1 root root       21072 Apr 24  2020 sg_get_lba_status
+-rwxr-xr-x.  1 root root       16680 Apr 24  2020 sg_ident
+-rwxr-xr-x.  1 root root       76712 Apr 24  2020 sginfo
+-rwxr-xr-x.  1 root root      120808 Apr 24  2020 sg_inq
+-rwxr-xr-x.  1 root root      153680 Apr 24  2020 sg_logs
+-rwxr-xr-x.  1 root root       25520 Apr 24  2020 sg_luns
+-rwxr-xr-x.  1 root root       16856 Apr 24  2020 sg_map
+-rwxr-xr-x.  1 root root       25536 Apr 24  2020 sg_map26
+-rwxr-xr-x.  1 root root       33400 Apr 24  2020 sgm_dd
+-rwxr-xr-x   1 root root         265 Nov 17  2000 sgmlwhich
+-rwxr-xr-x.  1 root root       45000 Apr 24  2020 sg_modes
+-rwxr-xr-x.  1 root root       29672 Apr 24  2020 sg_opcodes
+-rwxr-xr-x.  1 root root       37752 Apr 24  2020 sgp_dd
+-rwxr-xr-x.  1 root root       35016 Apr 24  2020 sg_persist
+-rwxr-xr-x.  1 root root       12480 Apr 24  2020 sg_prevent
+-rwxr-xr-x.  1 root root       25096 Apr 24  2020 sg_raw
+-rwxr-xr-x.  1 root root       21384 Apr 24  2020 sg_rbuf
+-rwxr-xr-x.  1 root root       16376 Apr 24  2020 sg_rdac
+-rwxr-xr-x.  1 root root       25064 Apr 24  2020 sg_read
+-rwxr-xr-x.  1 root root       35680 Apr 24  2020 sg_read_attr
+-rwxr-xr-x.  1 root root       12528 Apr 24  2020 sg_read_block_limits
+-rwxr-xr-x.  1 root root       21616 Apr 24  2020 sg_read_buffer
+-rwxr-xr-x.  1 root root       21432 Apr 24  2020 sg_readcap
+-rwxr-xr-x.  1 root root       16784 Apr 24  2020 sg_read_long
+-rwxr-xr-x.  1 root root       16744 Apr 24  2020 sg_reassign
+-rwxr-xr-x.  1 root root       16744 Apr 24  2020 sg_referrals
+-rwxr-xr-x.  1 root root       21288 Apr 24  2020 sg_rep_zones
+-rwxr-xr-x.  1 root root       16816 Apr 24  2020 sg_requests
+-rwxr-xr-x.  1 root root       17200 Apr 24  2020 sg_reset
+-rwxr-xr-x.  1 root root       16680 Apr 24  2020 sg_reset_wp
+-rwxr-xr-x.  1 root root       12480 Apr 24  2020 sg_rmsn
+-rwxr-xr-x.  1 root root       16664 Apr 24  2020 sg_rtpg
+-rwxr-xr-x.  1 root root       20880 Apr 24  2020 sg_safte
+-rwxr-xr-x.  1 root root       25304 Apr 24  2020 sg_sanitize
+-rwxr-xr-x.  1 root root       17264 Apr 24  2020 sg_sat_identify
+-rwxr-xr-x.  1 root root       17112 Apr 24  2020 sg_sat_phy_event
+-rwxr-xr-x.  1 root root       16816 Apr 24  2020 sg_sat_read_gplog
+-rwxr-xr-x.  1 root root       16776 Apr 24  2020 sg_sat_set_features
+-rwxr-xr-x.  1 root root       16960 Apr 24  2020 sg_scan
+-rwxr-xr-x.  1 root root       17408 Apr 24  2020 sg_seek
+-rwxr-xr-x.  1 root root       25952 Apr 24  2020 sg_senddiag
+-rwxr-xr-x.  1 root root      121144 Apr 24  2020 sg_ses
+-rwxr-xr-x.  1 root root       30256 Apr 24  2020 sg_ses_microcode
+-rwxr-xr-x.  1 root root       21504 Apr 24  2020 sg_start
+-rwxr-xr-x.  1 root root       20912 Apr 24  2020 sg_stpg
+-rwxr-xr-x.  1 root root       20880 Apr 24  2020 sg_stream_ctl
+-rwxr-xr-x.  1 root root       16736 Apr 24  2020 sg_sync
+-rwxr-xr-x.  1 root root       17192 Apr 24  2020 sg_test_rwbuf
+-rwxr-xr-x.  1 root root       21392 Apr 24  2020 sg_timestamp
+-rwxr-xr-x.  1 root root       17208 Apr 24  2020 sg_turs
+-rwxr-xr-x.  1 root root       25032 Apr 24  2020 sg_unmap
+-rwxr-xr-x.  1 root root       21072 Apr 24  2020 sg_verify
+-rwxr-xr-x.  1 root root      111544 Apr 24  2020 sg_vpd
+-rwxr-xr-x.  1 root root       21896 Apr 24  2020 sg_write_buffer
+-rwxr-xr-x.  1 root root       16848 Apr 24  2020 sg_write_long
+-rwxr-xr-x.  1 root root       25200 Apr 24  2020 sg_write_same
+-rwxr-xr-x.  1 root root       21424 Apr 24  2020 sg_write_verify
+-rwxr-xr-x.  1 root root       55112 Apr 24  2020 sg_write_x
+-rwxr-xr-x.  1 root root       20904 Apr 24  2020 sg_wr_mode
+-rwxr-xr-x.  1 root root       41632 Apr 24  2020 sg_xcopy
+-rwxr-xr-x.  1 root root       16816 Apr 24  2020 sg_zone
+lrwxrwxrwx   1 root root           4 Jul 27  2021 sh -> bash
+-rwxr-xr-x   5 root root       33552 Jun 16  2020 sha1hmac
+-rwxr-xr-x   1 root root       46624 Jul 14  2021 sha1sum
+-rwxr-xr-x   5 root root       33552 Jun 16  2020 sha224hmac
+-rwxr-xr-x   1 root root       46648 Jul 14  2021 sha224sum
+-rwxr-xr-x   5 root root       33552 Jun 16  2020 sha256hmac
+-rwxr-xr-x   1 root root       46656 Jul 14  2021 sha256sum
+-rwxr-xr-x   5 root root       33552 Jun 16  2020 sha384hmac
+-rwxr-xr-x   1 root root       46656 Jul 14  2021 sha384sum
+-rwxr-xr-x   5 root root       33552 Jun 16  2020 sha512hmac
+-rwxr-xr-x   1 root root       46656 Jul 14  2021 sha512sum
+-rwxr-xr-x   1 root root       21288 Jul 21  2020 showconsolefont
+-rwxr-xr-x   1 root root       17032 Jul 21  2020 showkey
+-rwxr-xr-x   1 root root       13368 May 14  2019 showrgb
+-rwxr-xr-x   1 root root       63304 Jul 14  2021 shred
+-rwxr-xr-x   1 root root       59456 Jul 14  2021 shuf
+-rwxr-xr-x   1 root root      109424 Dec  3  2021 signver
+-rwxr-xr-x   1 root root       16608 Aug 26  2021 sim_client
+-rwxr-xr-x   1 root root       34032 Nov 12  2021 size
+-rwxr-xr-x   1 root root       29520 Feb  2  2021 skill
+-rwxr-xr-x   1 root root       36992 Dec 22  2021 slabinfo
+-rwxr-xr-x   1 root root       21344 Feb  2  2021 slabtop
+-rwxr-xr-x   1 root root       38296 Jul 14  2021 sleep
+-rwxr-xr-x   1 root root       29520 Feb  2  2021 snice
+-rwxr-xr-x.  1 root root       43576 May 28  2019 soelim
+-rwxr-xr-x   1 root root      126400 Jul 14  2021 sort
+-rwxr-xr-x   1 root root        4281 Aug 25  2021 sotruss
+-rwxr-xr-x   1 root root       86640 Dec 23  2020 source-highlight
+-rwxr-xr-x   1 root root        1017 Dec 23  2020 source-highlight-esc.sh
+-rwxr-xr-x   1 root root       21728 Dec 23  2020 source-highlight-settings
+-rwxr-xr-x   1 root root       59416 Jul 14  2021 split
+-rwxr-xr-x   1 root root        3461 May 14  2019 splitdiff
+-rwxr-xr-x   1 root root       36856 Aug 25  2021 sprof
+-rwxr-xr-x   1 root root     1346688 May 20  2021 sqlite3
+-rwxr-xr-x   1 root root         490 Dec 23  2020 src-hilite-lesspipe.sh
+-rwxr-xr-x   1 root root      775720 Jul 13  2021 ssh
+-rwxr-xr-x   1 root root      354416 Jul 13  2021 ssh-add
+-rwxr-xr-x   1 root root      333384 Jul 13  2021 ssh-agent
+-rwxr-xr-x   1 root root       10694 Jul 13  2021 ssh-copy-id
+-rwxr-xr-x   1 root root      437432 Jul 13  2021 ssh-keygen
+-rwxr-xr-x   1 root root      438760 Jul 13  2021 ssh-keyscan
+-rwxr-xr-x   1 root root      129616 Dec  3  2021 ssltap
+-rwxr-xr-x   1 root root       25440 Dec 22  2021 sss_ssh_authorizedkeys
+-rwxr-xr-x   1 root root       29536 Dec 22  2021 sss_ssh_knownhostsproxy
+-rwxr-xr-x   1 root root     3778592 Aug 19  2021 stap
+-rwxr-xr-x   1 root root      241024 Aug 19  2021 stapbpf
+-rwxr-xr-x   1 root root      222944 Aug 19  2021 stapdyn
+-rwxr-xr-x   1 root root       12504 Aug 19  2021 stap-merge
+-rwxr-xr-x   1 root root        5205 Aug 19  2021 stap-prep
+-rwxr-xr-x   1 root root        4916 Aug 19  2021 stap-report
+---s--x---   1 root stapusr   235376 Aug 19  2021 staprun
+-rwxr-xr-x   1 root root       25120 Aug 19  2021 stapsh
+-rwxr-xr-x   1 root root       88200 Jul 14  2021 stat
+-rwxr-xr-x   1 root root       50696 Jul 14  2021 stdbuf
+-rwxr-xr-x   1 root root     1707960 Sep  3  2021 strace
+-rwxr-xr-x   1 root root        1821 Sep  3  2021 strace-log-merge
+-rwxr-xr-x   1 root root       38304 Nov 12  2021 strings
+-rwxr-xr-x   1 root root      245848 Nov 12  2021 strip
+-rwxr-xr-x   1 root root       79440 Jul 14  2021 stty
+-rwsr-xr-x   1 root root       50160 Jul 21  2021 su
+---s--x--x   1 root root      165488 Oct 25  2021 sudo
+lrwxrwxrwx   1 root root           4 Oct 25  2021 sudoedit -> sudo
+---x--x--x   1 root root       63120 Oct 25  2021 sudoreplay
+-rwxr-xr-x   1 root root       46584 Jul 14  2021 sum
+-rwxr-xr-x   3 root root       87672 May 11  2019 sx
+-rwxr-xr-x   1 root root       29528 Apr  7  2020 sxpm
+-rwxr-xr-x   1 root root       38224 Jul 14  2021 sync
+-rwxr-xr-x   1 root root      223680 Dec 22  2021 systemctl
+-rwxr-xr-x   1 root root     1622096 Dec 22  2021 systemd-analyze
+-rwxr-xr-x   1 root root       12368 Dec 22  2021 systemd-ask-password
+-rwxr-xr-x   1 root root       16464 Dec 22  2021 systemd-cat
+-rwxr-xr-x   1 root root       16808 Dec 22  2021 systemd-cgls
+-rwxr-xr-x   1 root root       33648 Dec 22  2021 systemd-cgtop
+-rwxr-xr-x   1 root root       25248 Dec 22  2021 systemd-delta
+-rwxr-xr-x   1 root root       12216 Dec 22  2021 systemd-detect-virt
+-rwxr-xr-x   1 root root       16448 Dec 22  2021 systemd-escape
+-rwxr-xr-x   1 root root       37944 Dec 22  2021 systemd-firstboot
+-rwxr-xr-x   1 root root       29640 Dec 22  2021 systemd-hwdb
+-rwxr-xr-x   1 root root       16472 Dec 22  2021 systemd-inhibit
+-rwxr-xr-x   1 root root       25336 Dec 22  2021 systemd-machine-id-setup
+-rwxr-xr-x   1 root root       54312 Dec 22  2021 systemd-mount
+-rwxr-xr-x   1 root root       16472 Dec 22  2021 systemd-notify
+-rwxr-xr-x   1 root root       16456 Dec 22  2021 systemd-path
+lrwxrwxrwx   1 root root          10 Dec 22  2021 systemd-resolve -> resolvectl
+-rwxr-xr-x   1 root root       50184 Dec 22  2021 systemd-run
+-rwxr-xr-x   1 root root       25360 Dec 22  2021 systemd-socket-activate
+-rwxr-xr-x   1 root root       16472 Dec 22  2021 systemd-stdio-bridge
+-rwxr-xr-x   1 root root       54344 Dec 22  2021 systemd-sysusers
+-rwxr-xr-x   1 root root       75088 Dec 22  2021 systemd-tmpfiles
+-rwxr-xr-x   1 root root       33616 Dec 22  2021 systemd-tty-ask-password-agent
+lrwxrwxrwx   1 root root          13 Dec 22  2021 systemd-umount -> systemd-mount
+-rwxr-xr-x   3 root root       87672 May 11  2019 sz
+-rwxr-xr-x   1 root root       16928 Jun  1  2021 tabs
+-rwxr-xr-x   1 root root       42464 Jul 14  2021 tac
+-rwxr-xr-x   1 root root       75904 Jul 14  2021 tail
+-rwxr-xr-x   1 root root      459928 Jul 21  2020 tar
+-rwxr-xr-x   1 root root       38120 Jul 21  2021 taskset
+-rwxr-xr-x.  1 root root      158320 May 28  2019 tbl
+-rwxr-xr-x   1 root root      164440 Sep  8  2020 teamd
+-rwxr-xr-x   1 root root       31256 Sep  8  2020 teamdctl
+-rwxr-xr-x   1 root root       21080 Sep  8  2020 teamnl
+-rwxr-xr-x   1 root root       42448 Jul 14  2021 tee
+-rwxr-xr-x   1 root root      107552 Dec 23  2020 telnet
+-rwxr-xr-x   1 root root       54792 Jul 14  2021 test
+-rwxr-xr-x   1 root root       87288 Jun  1  2021 tic
+-rwxr-xr-x   1 root root       37912 Dec 22  2021 timedatectl
+-rwxr-xr-x   1 root root       42840 Jul 14  2021 timeout
+-rwxr-xr-x   1 root root       17160 Feb  2  2021 tload
+-rwxr-xr-x   1 root root       40520 Dec 22  2021 tmon
+-rwxr-xr-x   1 root root      660080 May 11  2019 tmux
+lrwxrwxrwx   1 root root          27 Jul 23  2021 tnameserv -> /etc/alternatives/tnameserv
+-rwxr-xr-x   1 root root       16856 Jun  1  2021 toe
+-rwxr-xr-x   1 root root      124704 Feb  2  2021 top
+-rwxr-xr-x   1 root root       96144 Jul 14  2021 touch
+-rwxr-xr-x   1 root root       25352 Jun  1  2021 tput
+-rwxr-xr-x   1 root root       50792 Jul 14  2021 tr
+-rwxr-xr-x   1 root root       20880 Feb 23  2021 tracepath
+-rwxr-xr-x   1 root root       17008 Jun 11  2021 tred
+-rwxr-xr-x   1 root root       83544 May 11  2019 tree
+-rwxr-xr-x.  1 root root      824344 May 28  2019 troff
+-rwxr-xr-x   1 root root       34096 Jul 14  2021 true
+-rwxr-xr-x   1 root root       42328 Jul 14  2021 truncate
+-rwxr-xr-x   1 root root      220920 Jan 12  2021 trust
+-rwxr-xr-x   1 root root       25336 Jun  1  2021 tset
+-rwxr-xr-x   1 root root       42448 Jul 14  2021 tsort
+-rwxr-xr-x   1 root root      139312 May 14  2019 ttmkfdir
+-rwxr-xr-x   1 root root       34088 Jul 14  2021 tty
+-rwxr-xr-x   1 root root      120920 Dec 22  2021 turbostat
+lrwxrwxrwx   1 root root           3 Jun 11  2021 twopi -> dot
+-rwxr-xr-x   1 root root          28 Jul 27  2021 type
+-rwxr-xr-x   1 root root       15370 Aug 25  2021 tzselect
+-rwxr-xr-x   1 root root       25032 May 25  2021 ucs2any
+-rwxr-xr-x   1 root root      447096 Dec 22  2021 udevadm
+-rwxr-xr-x   1 root root       21080 Jul 21  2021 ul
+-rwxr-xr-x   1 root root          30 Jul 27  2021 ulimit
+-rwxr-xr-x   1 root root          29 Jul 27  2021 umask
+-rwsr-xr-x   1 root root       33544 Jul 21  2021 umount
+-rwxr-xr-x   1 root root          31 Jul 27  2021 unalias
+-rwxr-xr-x   1 root root       38216 Jul 14  2021 uname
+lrwxrwxrwx   1 root root           7 Jul 21  2021 uname26 -> setarch
+-rwxr-xr-x   1 root root       46672 Jul 14  2021 unexpand
+-rwxr-xr-x   1 root root       17040 Jun 11  2021 unflatten
+-rwxr-xr-x   1 root root        2613 Jul 21  2020 unicode_start
+-rwxr-xr-x   1 root root         363 Jul 21  2020 unicode_stop
+-rwxr-xr-x   1 root root       50808 Jul 14  2021 uniq
+-rwxr-xr-x   1 root root       34112 Jul 14  2021 unlink
+lrwxrwxrwx   1 root root          27 Jul 23  2021 unpack200 -> /etc/alternatives/unpack200
+-rwxr-xr-x.  2 root root      125176 Apr  7  2020 unpigz
+-rwxr-xr-x   1 root root       25528 Jul 21  2021 unshare
+lrwxrwxrwx   1 root root          24 Jul 23  2021 unversioned-python -> /etc/alternatives/python
+-rwxr-xr-x   1 root root        5940 May 14  2019 unwrapdiff
+lrwxrwxrwx.  1 root root           2 May 11  2019 unxz -> xz
+-rwxr-xr-x.  2 root root      206696 Jun 30  2021 unzip
+-rwxr-xr-x.  1 root root      103864 Jun 30  2021 unzipsfx
+lrwxrwxrwx   1 root root           4 Jun 17  2020 unzstd -> zstd
+-rwxr-xr-x   1 root root        1268 Sep 22  2021 update-ca-trust
+-rwxr-xr-x   1 root root          87 Jun 17  2021 update-crypto-policies
+-rwxr-xr-x   1 root root         313 Jan 13  2021 update-gtk-immodules
+-rwxr-xr-x.  1 root root       55216 May 11  2019 update-mime-database
+-rwxr-xr-x   1 root root       12976 Feb  2  2021 uptime
+-rwxr-xr-x   1 root root       38264 Jul 14  2021 users
+-rwxr-xr-x   1 root root       12120 Feb 19  2021 usleep
+-rwxr-xr-x   1 root root       29352 Jul 21  2021 utmpdump
+-rwxr-xr-x   1 root root       16240 Aug 26  2021 uuclient
+-rwxr-xr-x   1 root root       16704 Jul 21  2021 uuidgen
+-rwxr-xr-x   1 root root       38032 Jul 21  2021 uuidparse
+-rwxr-xr-x   1 root root       23984 Jul  9  2021 valgrind
+-rwxr-xr-x   1 root root       32112 Jul  9  2021 valgrind-di-server
+-rwxr-xr-x   1 root root       15744 Jul  9  2021 valgrind-listener
+lrwxrwxrwx   1 root root          45 Jul 23  2021 VBoxClient -> /opt/VBoxGuestAdditions-6.1.22/bin/VBoxClient
+lrwxrwxrwx   1 root root          46 Jul 23  2021 VBoxControl -> /opt/VBoxGuestAdditions-6.1.22/bin/VBoxControl
+lrwxrwxrwx   1 root root          48 Jul 23  2021 VBoxDRMClient -> /opt/VBoxGuestAdditions-6.1.22/bin/VBoxDRMClient
+-rwxr-xr-x   1 root root      143232 Jul 14  2021 vdir
+-rwxr-xr-x   1 root root       60968 Jul  9  2021 vgdb
+-rwxr-xr-x   1 root root     1180360 Sep 22  2021 vi
+lrwxrwxrwx   1 root root           2 Sep 22  2021 view -> vi
+-rwxr-xr-x   1 root root     3063600 Sep 22  2021 vim
+lrwxrwxrwx   1 root root           3 Sep 22  2021 vimdiff -> vim
+-rwxr-xr-x   1 root root        1082 Jun 11  2021 vimdot
+-rwxr-xr-x   1 root root        2121 Sep 22  2021 vimtutor
+-rwxr-xr-x   1 root root       21424 Jul 21  2020 vlock
+-rwxr-xr-x   1 root root       37720 Feb  2  2021 vmstat
+-rwxr-xr-x   1 root root       21248 Feb  2  2021 w
+-rwxr-xr-x   1 root root          28 Jul 27  2021 wait
+-rwxr-xr-x   1 root root       33816 Jul 21  2021 wall
+-rwxr-xr-x   1 root root       29920 Feb  2  2021 watch
+-rwxr-xr-x   1 root root       16936 May 16  2020 watchgnupg
+-rwxr-xr-x   1 root root       46032 Jun  1  2021 wayland-scanner
+-rwxr-xr-x   1 root root       50832 Jul 14  2021 wc
+-rwxr-xr-x   1 root root       37840 Jul 21  2021 wdctl
+-rwxr-xr-x.  1 root root      534064 Apr 27  2020 wget
+-rwxr-xr-x   1 root root       55304 Jun 30  2021 whatis
+-rwxr-xr-x   1 root root       29928 Jul 21  2021 whereis
+-rwxr-xr-x   1 root root       30120 May 17  2021 which
+-rwxr-xr-x.  1 root root       33224 Apr  7  2020 whiptail
+-rwxr-xr-x   1 root root       54848 Jul 14  2021 who
+-rwxr-xr-x   1 root root       34112 Jul 14  2021 whoami
+-rwxr-xr-x   1 root root         246 May 11  2019 withsctp
+-rwxr-sr-x   1 root tty        21120 Jul 21  2021 write
+lrwxrwxrwx   1 root root          23 Jul 23  2021 wsgen -> /etc/alternatives/wsgen
+lrwxrwxrwx   1 root root          26 Jul 23  2021 wsimport -> /etc/alternatives/wsimport
+lrwxrwxrwx   1 root root           7 Jul 21  2021 x86_64 -> setarch
+-rwxr-xr-x   4 root root     1266528 Nov 13  2021 x86_64-redhat-linux-c++
+-rwxr-xr-x   4 root root     1266528 Nov 13  2021 x86_64-redhat-linux-g++
+-rwxr-xr-x   3 root root     1262408 Nov 13  2021 x86_64-redhat-linux-gcc
+-rwxr-xr-x   3 root root     1262408 Nov 13  2021 x86_64-redhat-linux-gcc-8
+-rwxr-xr-x.  1 root root         424 May 11  2019 x86_64-redhat-linux-gnu-pkg-config
+-rwxr-xr-x   1 root root       32728 Dec 22  2021 x86_energy_perf_policy
+-rwxr-xr-x.  1 root root       90312 May 11  2019 xargs
+-rwxr-xr-x   1 root root       43136 May 14  2019 xdpyinfo
+-rwxr-xr-x   1 root root       34488 May 14  2019 xev
+-rwxr-xr-x   1 root root       17488 May 14  2019 xgamma
+-rwxr-xr-x.  1 root root      340216 Nov  9  2019 xgettext
+-rwxr-xr-x   1 root root       17528 May 14  2019 xhost
+-rwxr-xr-x   1 root root       65136 May 14  2019 xinput
+lrwxrwxrwx   1 root root          21 Jul 23  2021 xjc -> /etc/alternatives/xjc
+-rwxr-xr-x   1 root root       17512 May 14  2019 xkill
+-rwxr-xr-x   1 root root       17496 May 14  2019 xlsatoms
+-rwxr-xr-x   1 root root       17600 May 14  2019 xlsclients
+-rwxr-xr-x   1 root root       26232 May 14  2019 xlsfonts
+-rwxr-xr-x   1 root root        1746 Jul 23  2017 xml2-config
+-rwxr-xr-x   1 root root       20832 Jun 30  2021 xmlcatalog
+-rwxr-xr-x   1 root root       75136 Jun 30  2021 xmllint
+-rwxr-xr-x   1 root root       33864 May 16  2020 xmlwf
+-rwxr-xr-x   1 root root       40936 May 14  2019 xmodmap
+-rwxr--r--   1 root root        1322 May 25  2021 xorg-x11-fonts-update-dirs
+-rwxr-xr-x   1 root root       50128 May 14  2019 xprop
+-rwxr-xr-x   1 root root       67032 May 14  2019 xrandr
+-rwxr-xr-x   1 root root       34800 May 14  2019 xrdb
+-rwxr-xr-x   1 root root       18368 May 14  2019 xrefresh
+-rwxr-xr-x   1 root root       38088 May 14  2019 xset
+-rwxr-xr-x   1 root root       13368 May 14  2019 xsetpointer
+-rwxr-xr-x   1 root root       21952 May 14  2019 xsetroot
+-rwxr-xr-x   1 root root       29248 Oct 15  2020 xsltproc
+-rwxr-xr-x   1 root root       18104 May 14  2019 xstdcmap
+-rwxr-xr-x   1 root root       17768 May 14  2019 xvinfo
+-rwxr-xr-x   1 root root       52160 May 14  2019 xwininfo
+-rwxr-xr-x   1 root root       21016 Sep 22  2021 xxd
+-rwxr-xr-x.  1 root root       91432 May 11  2019 xz
+lrwxrwxrwx.  1 root root           2 May 11  2019 xzcat -> xz
+lrwxrwxrwx.  1 root root           6 May 11  2019 xzcmp -> xzdiff
+-rwxr-xr-x.  1 root root       18376 May 11  2019 xzdec
+-rwxr-xr-x.  1 root root        6632 May 11  2019 xzdiff
+lrwxrwxrwx.  1 root root           6 May 11  2019 xzegrep -> xzgrep
+lrwxrwxrwx.  1 root root           6 May 11  2019 xzfgrep -> xzgrep
+-rwxr-xr-x.  1 root root        5628 May 11  2019 xzgrep
+-rwxr-xr-x.  1 root root        1802 May 11  2019 xzless
+-rwxr-xr-x.  1 root root        2161 May 11  2019 xzmore
+-rwxr-xr-x   1 root root      111080 May 14  2019 yacc
+-rwxr-xr-x   1 root root       34144 Jul 14  2021 yes
+lrwxrwxrwx.  1 root root           8 May 11  2019 ypdomainname -> hostname
+lrwxrwxrwx   1 root root           5 Sep 18  2021 yum -> dnf-3
+-rwxr-xr-x   1 root root        1983 Jan 13  2021 zcat
+-rwxr-xr-x   1 root root        1677 Jan 13  2021 zcmp
+-rwxr-xr-x   1 root root        5879 Jan 13  2021 zdiff
+-rwxr-xr-x   1 root root          29 Jan 13  2021 zegrep
+-rwxr-xr-x   1 root root          29 Jan 13  2021 zfgrep
+-rwxr-xr-x   1 root root        2080 Jan 13  2021 zforce
+-rwxr-xr-x   1 root root        7591 Jan 13  2021 zgrep
+-rwxr-xr-x.  1 root root      234496 May 12  2019 zip
+-rwxr-xr-x.  1 root root      105376 May 12  2019 zipcloak
+-rwxr-xr-x.  1 root root        2953 Oct 11  2008 zipgrep
+-rwxr-xr-x.  2 root root      206696 Jun 30  2021 zipinfo
+-rwxr-xr-x.  1 root root      100104 May 12  2019 zipnote
+-rwxr-xr-x.  1 root root      100112 May 12  2019 zipsplit
+-rwxr-xr-x   1 root root        2205 Jan 13  2021 zless
+-rwxr-xr-x   1 root root        1841 Jan 13  2021 zmore
+-rwxr-xr-x   1 root root        4552 Jan 13  2021 znew
+-rwxr-xr-x   1 root root     1000248 Mar 21  2020 zsh
+lrwxrwxrwx.  1 root root           6 May 28  2019 zsoelim -> soelim
+-rwxr-xr-x   1 root root      780248 Jun 17  2020 zstd
+lrwxrwxrwx   1 root root           4 Jun 17  2020 zstdcat -> zstd
+-rwxr-xr-x   1 root root        3881 Nov  5  2019 zstdgrep
+-rwxr-xr-x   1 root root          30 Nov  5  2019 zstdless
+lrwxrwxrwx   1 root root           4 Jun 17  2020 zstdmt -> zstd
